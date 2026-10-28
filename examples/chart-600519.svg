@@ -1,0 +1,703 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="680" viewBox="0 0 1280 680">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="64.0" y="28.0" font-size="18" text-anchor="start" fill="#37474f" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif">贵州茅台 日线（最近 300 根，笔级中枢）</text>
+<text x="1256.0" y="28.0" font-size="12" text-anchor="end" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">口径: stroke / 笔</text>
+<line x1="64" y1="584.0" x2="1256" y2="584.0" stroke="#eceff1" stroke-width="1"/>
+<text x="56.0" y="588.0" font-size="11" text-anchor="end" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">1135.45</text>
+<line x1="64" y1="450.0" x2="1256" y2="450.0" stroke="#eceff1" stroke-width="1"/>
+<text x="56.0" y="454.0" font-size="11" text-anchor="end" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">1240.47</text>
+<line x1="64" y1="316.0" x2="1256" y2="316.0" stroke="#eceff1" stroke-width="1"/>
+<text x="56.0" y="320.0" font-size="11" text-anchor="end" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">1345.49</text>
+<line x1="64" y1="182.0" x2="1256" y2="182.0" stroke="#eceff1" stroke-width="1"/>
+<text x="56.0" y="186.0" font-size="11" text-anchor="end" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">1450.52</text>
+<line x1="64" y1="48.0" x2="1256" y2="48.0" stroke="#eceff1" stroke-width="1"/>
+<text x="56.0" y="52.0" font-size="11" text-anchor="end" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">1555.54</text>
+<line x1="64.0" y1="239.8" x2="64.0" y2="265.6" stroke="#e53935" stroke-width="1"/>
+<rect x="62.7" y="249.7" width="2.6" height="6.9" fill="#e53935"><title>2025-07-30 O=1392.02 H=1405.18 L=1385.02 C=1397.46</title></rect>
+<line x1="68.0" y1="255.5" x2="68.0" y2="289.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="66.7" y="257.9" width="2.6" height="27.2" fill="#1e88e5"><title>2025-07-31 O=1391.02 H=1392.89 L=1366.02 C=1369.69</title></rect>
+<line x1="72.0" y1="279.7" x2="72.0" y2="294.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="70.7" y="284.9" width="2.6" height="6.2" fill="#1e88e5"><title>2025-08-01 O=1369.89 H=1373.98 L=1362.02 C=1365.02</title></rect>
+<line x1="76.0" y1="287.5" x2="76.0" y2="294.9" stroke="#e53935" stroke-width="1"/>
+<rect x="74.7" y="288.5" width="2.6" height="5.1" fill="#e53935"><title>2025-08-04 O=1363.02 H=1367.82 L=1362.02 C=1367.02</title></rect>
+<line x1="79.9" y1="274.6" x2="79.9" y2="290.9" stroke="#e53935" stroke-width="1"/>
+<rect x="78.7" y="277.4" width="2.6" height="8.6" fill="#e53935"><title>2025-08-05 O=1369.02 H=1377.96 L=1365.13 C=1375.76</title></rect>
+<line x1="83.9" y1="275.8" x2="83.9" y2="288.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="82.6" y="275.8" width="2.6" height="6.5" fill="#1e88e5"><title>2025-08-06 O=1377.02 H=1377.02 L=1367.32 C=1371.90</title></rect>
+<line x1="87.9" y1="277.4" x2="87.9" y2="287.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="86.6" y="282.3" width="2.6" height="2.0" fill="#1e88e5"><title>2025-08-07 O=1371.90 H=1375.72 L=1368.08 C=1370.37</title></rect>
+<line x1="91.9" y1="279.0" x2="91.9" y2="289.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="90.6" y="283.4" width="2.6" height="2.7" fill="#1e88e5"><title>2025-08-08 O=1371.07 H=1374.52 L=1366.02 C=1368.99</title></rect>
+<line x1="95.9" y1="246.4" x2="95.9" y2="283.4" stroke="#e53935" stroke-width="1"/>
+<rect x="94.6" y="255.4" width="2.6" height="27.4" fill="#e53935"><title>2025-08-11 O=1371.52 H=1400.01 L=1371.02 C=1393.02</title></rect>
+<line x1="99.9" y1="229.8" x2="99.9" y2="266.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="98.6" y="250.3" width="2.6" height="15.3" fill="#1e88e5"><title>2025-08-12 O=1397.02 H=1413.09 L=1384.02 C=1385.06</title></rect>
+<line x1="103.9" y1="269.8" x2="103.9" y2="287.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="102.6" y="280.9" width="2.6" height="6.3" fill="#1e88e5"><title>2025-08-13 O=1373.02 H=1381.70 L=1368.02 C=1368.07</title></rect>
+<line x1="107.9" y1="252.2" x2="107.9" y2="286.1" stroke="#e53935" stroke-width="1"/>
+<rect x="106.6" y="278.3" width="2.6" height="7.7" fill="#e53935"><title>2025-08-14 O=1368.96 H=1395.53 L=1368.96 C=1375.01</title></rect>
+<line x1="111.8" y1="276.2" x2="111.8" y2="287.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="110.5" y="279.6" width="2.6" height="5.0" fill="#1e88e5"><title>2025-08-15 O=1374.03 H=1376.68 L=1368.24 C=1370.10</title></rect>
+<line x1="115.8" y1="266.0" x2="115.8" y2="283.3" stroke="#e53935" stroke-width="1"/>
+<rect x="114.5" y="276.4" width="2.6" height="1.9" fill="#e53935"><title>2025-08-18 O=1375.01 H=1384.66 L=1371.12 C=1376.52</title></rect>
+<line x1="119.8" y1="253.2" x2="119.8" y2="271.9" stroke="#e53935" stroke-width="1"/>
+<rect x="118.5" y="264.3" width="2.6" height="5.7" fill="#e53935"><title>2025-08-19 O=1381.52 H=1394.68 L=1380.02 C=1386.02</title></rect>
+<line x1="123.8" y1="245.4" x2="123.8" y2="274.5" stroke="#e53935" stroke-width="1"/>
+<rect x="122.5" y="249.0" width="2.6" height="15.3" fill="#e53935"><title>2025-08-20 O=1386.02 H=1400.82 L=1378.04 C=1398.02</title></rect>
+<line x1="127.8" y1="242.6" x2="127.8" y2="257.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="126.5" y="244.6" width="2.6" height="6.6" fill="#1e88e5"><title>2025-08-21 O=1401.47 H=1403.01 L=1391.67 C=1396.27</title></rect>
+<line x1="131.8" y1="231.1" x2="131.8" y2="255.7" stroke="#e53935" stroke-width="1"/>
+<rect x="130.5" y="231.2" width="2.6" height="19.2" fill="#e53935"><title>2025-08-22 O=1396.90 H=1412.02 L=1392.79 C=1411.97</title></rect>
+<line x1="135.8" y1="190.3" x2="135.8" y2="228.6" stroke="#e53935" stroke-width="1"/>
+<rect x="134.5" y="197.5" width="2.6" height="25.9" fill="#e53935"><title>2025-08-25 O=1418.03 H=1444.02 L=1414.02 C=1438.35</title></rect>
+<line x1="139.7" y1="192.5" x2="139.7" y2="210.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="138.5" y="197.5" width="2.6" height="11.1" fill="#1e88e5"><title>2025-08-26 O=1438.34 H=1442.25 L=1428.03 C=1429.63</title></rect>
+<line x1="143.7" y1="204.4" x2="143.7" y2="251.5" stroke="#1e88e5" stroke-width="1"/>
+<rect x="142.4" y="208.3" width="2.6" height="43.2" fill="#1e88e5"><title>2025-08-27 O=1429.90 H=1432.95 L=1396.02 C=1396.02</title></rect>
+<line x1="147.7" y1="241.2" x2="147.7" y2="263.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="146.4" y="251.6" width="2.6" height="2.4" fill="#1e88e5"><title>2025-08-28 O=1395.99 H=1404.12 L=1386.79 C=1394.12</title></rect>
+<line x1="151.7" y1="207.4" x2="151.7" y2="246.4" stroke="#e53935" stroke-width="1"/>
+<rect x="150.4" y="210.7" width="2.6" height="34.4" fill="#e53935"><title>2025-08-29 O=1401.02 H=1430.60 L=1400.02 C=1428.02</title></rect>
+<line x1="155.7" y1="200.5" x2="155.7" y2="229.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="154.4" y="207.9" width="2.6" height="7.8" fill="#1e88e5"><title>2025-09-01 O=1430.22 H=1436.02 L=1413.72 C=1424.12</title></rect>
+<line x1="159.7" y1="173.7" x2="159.7" y2="213.3" stroke="#e53935" stroke-width="1"/>
+<rect x="158.4" y="196.3" width="2.6" height="16.1" fill="#e53935"><title>2025-09-02 O=1426.68 H=1457.02 L=1426.02 C=1439.32</title></rect>
+<line x1="163.7" y1="180.7" x2="163.7" y2="228.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="162.4" y="196.7" width="2.6" height="13.3" fill="#1e88e5"><title>2025-09-03 O=1439.02 H=1451.52 L=1414.02 C=1428.57</title></rect>
+<line x1="167.7" y1="211.6" x2="167.7" y2="235.6" stroke="#e53935" stroke-width="1"/>
+<rect x="166.4" y="220.1" width="2.6" height="1.0" fill="#e53935"><title>2025-09-04 O=1420.02 H=1427.32 L=1408.49 C=1420.68</title></rect>
+<line x1="171.6" y1="201.8" x2="171.6" y2="231.1" stroke="#e53935" stroke-width="1"/>
+<rect x="170.3" y="206.9" width="2.6" height="15.3" fill="#e53935"><title>2025-09-05 O=1419.02 H=1434.99 L=1412.02 C=1431.02</title></rect>
+<line x1="175.6" y1="177.0" x2="175.6" y2="213.9" stroke="#e53935" stroke-width="1"/>
+<rect x="174.3" y="183.6" width="2.6" height="23.3" fill="#e53935"><title>2025-09-08 O=1431.02 H=1454.46 L=1425.52 C=1449.25</title></rect>
+<line x1="179.6" y1="172.5" x2="179.6" y2="193.6" stroke="#e53935" stroke-width="1"/>
+<rect x="178.3" y="178.8" width="2.6" height="1.0" fill="#e53935"><title>2025-09-09 O=1453.02 H=1457.97 L=1441.44 C=1453.02</title></rect>
+<line x1="183.6" y1="147.0" x2="183.6" y2="190.3" stroke="#e53935" stroke-width="1"/>
+<rect x="182.3" y="157.1" width="2.6" height="19.6" fill="#e53935"><title>2025-09-10 O=1454.68 H=1477.97 L=1444.02 C=1470.03</title></rect>
+<line x1="187.6" y1="152.0" x2="187.6" y2="174.3" stroke="#e53935" stroke-width="1"/>
+<rect x="186.3" y="155.2" width="2.6" height="1.9" fill="#e53935"><title>2025-09-11 O=1470.03 H=1474.04 L=1456.52 C=1471.52</title></rect>
+<line x1="191.6" y1="136.7" x2="191.6" y2="171.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="190.3" y="152.0" width="2.6" height="12.8" fill="#1e88e5"><title>2025-09-12 O=1474.02 H=1486.04 L=1458.55 C=1464.02</title></rect>
+<line x1="195.6" y1="162.9" x2="195.6" y2="183.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="194.3" y="164.9" width="2.6" height="1.0" fill="#1e88e5"><title>2025-09-15 O=1463.89 H=1465.50 L=1449.52 C=1463.12</title></rect>
+<line x1="199.5" y1="158.4" x2="199.5" y2="190.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="198.3" y="165.9" width="2.6" height="19.3" fill="#1e88e5"><title>2025-09-16 O=1463.12 H=1469.01 L=1444.23 C=1448.00</title></rect>
+<line x1="203.5" y1="172.1" x2="203.5" y2="197.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="202.2" y="185.2" width="2.6" height="8.9" fill="#1e88e5"><title>2025-09-17 O=1448.01 H=1458.30 L=1438.03 C=1441.02</title></rect>
+<line x1="207.5" y1="188.0" x2="207.5" y2="231.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="206.2" y="195.4" width="2.6" height="30.7" fill="#1e88e5"><title>2025-09-18 O=1440.02 H=1445.82 L=1411.52 C=1415.98</title></rect>
+<line x1="211.5" y1="216.4" x2="211.5" y2="240.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="210.2" y="226.0" width="2.6" height="1.0" fill="#1e88e5"><title>2025-09-19 O=1416.01 H=1423.52 L=1405.03 C=1415.99</title></rect>
+<line x1="215.5" y1="226.1" x2="215.5" y2="249.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="214.2" y="229.7" width="2.6" height="15.0" fill="#1e88e5"><title>2025-09-22 O=1413.11 H=1415.99 L=1398.03 C=1401.37</title></rect>
+<line x1="219.5" y1="239.4" x2="219.5" y2="261.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="218.2" y="248.3" width="2.6" height="3.9" fill="#1e88e5"><title>2025-09-23 O=1398.52 H=1405.52 L=1388.02 C=1395.44</title></rect>
+<line x1="223.5" y1="240.3" x2="223.5" y2="269.3" stroke="#e53935" stroke-width="1"/>
+<rect x="222.2" y="259.2" width="2.6" height="10.1" fill="#e53935"><title>2025-09-24 O=1382.09 H=1404.80 L=1382.09 C=1390.02</title></rect>
+<line x1="227.5" y1="255.1" x2="227.5" y2="266.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="226.2" y="258.1" width="2.6" height="4.9" fill="#1e88e5"><title>2025-09-25 O=1390.85 H=1393.23 L=1384.02 C=1387.02</title></rect>
+<line x1="231.4" y1="252.7" x2="231.4" y2="277.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="230.1" y="260.2" width="2.6" height="7.9" fill="#1e88e5"><title>2025-09-26 O=1389.20 H=1395.13 L=1376.03 C=1383.02</title></rect>
+<line x1="235.4" y1="223.5" x2="235.4" y2="268.1" stroke="#e53935" stroke-width="1"/>
+<rect x="234.1" y="235.1" width="2.6" height="27.4" fill="#e53935"><title>2025-09-29 O=1387.40 H=1418.01 L=1383.02 C=1408.88</title></rect>
+<line x1="239.4" y1="235.3" x2="239.4" y2="261.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="238.1" y="236.2" width="2.6" height="20.4" fill="#1e88e5"><title>2025-09-30 O=1408.02 H=1408.78 L=1388.02 C=1392.01</title></rect>
+<line x1="243.4" y1="262.5" x2="243.4" y2="287.3" stroke="#e53935" stroke-width="1"/>
+<rect x="242.1" y="265.8" width="2.6" height="1.0" fill="#e53935"><title>2025-10-09 O=1384.02 H=1387.40 L=1368.02 C=1384.80</title></rect>
+<line x1="247.4" y1="261.8" x2="247.4" y2="277.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="246.1" y="264.8" width="2.6" height="9.7" fill="#1e88e5"><title>2025-10-10 O=1385.62 H=1387.96 L=1375.52 C=1378.02</title></rect>
+<line x1="251.4" y1="283.6" x2="251.4" y2="293.5" stroke="#e53935" stroke-width="1"/>
+<rect x="250.1" y="288.3" width="2.6" height="4.5" fill="#e53935"><title>2025-10-13 O=1363.72 H=1370.87 L=1363.14 C=1367.22</title></rect>
+<line x1="255.4" y1="231.1" x2="255.4" y2="274.5" stroke="#e53935" stroke-width="1"/>
+<rect x="254.1" y="247.7" width="2.6" height="26.8" fill="#e53935"><title>2025-10-14 O=1378.01 H=1412.02 L=1378.01 C=1399.04</title></rect>
+<line x1="259.3" y1="232.4" x2="259.3" y2="255.3" stroke="#e53935" stroke-width="1"/>
+<rect x="258.1" y="233.7" width="2.6" height="14.1" fill="#e53935"><title>2025-10-15 O=1399.00 H=1411.02 L=1393.10 C=1410.02</title></rect>
+<line x1="263.3" y1="204.4" x2="263.3" y2="237.7" stroke="#e53935" stroke-width="1"/>
+<rect x="262.0" y="204.4" width="2.6" height="29.3" fill="#e53935"><title>2025-10-16 O=1409.94 H=1432.97 L=1406.90 C=1432.93</title></rect>
+<line x1="267.3" y1="200.5" x2="267.3" y2="243.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="266.0" y="206.7" width="2.6" height="35.9" fill="#1e88e5"><title>2025-10-17 O=1431.12 H=1436.02 L=1402.05 C=1403.02</title></rect>
+<line x1="271.3" y1="224.1" x2="271.3" y2="242.8" stroke="#e53935" stroke-width="1"/>
+<rect x="270.0" y="238.9" width="2.6" height="3.7" fill="#e53935"><title>2025-10-20 O=1403.02 H=1417.52 L=1402.90 C=1405.95</title></rect>
+<line x1="275.3" y1="223.5" x2="275.3" y2="242.0" stroke="#e53935" stroke-width="1"/>
+<rect x="274.0" y="233.3" width="2.6" height="4.2" fill="#e53935"><title>2025-10-21 O=1407.02 H=1417.96 L=1403.52 C=1410.28</title></rect>
+<line x1="279.3" y1="228.9" x2="279.3" y2="241.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="278.0" y="233.6" width="2.6" height="4.3" fill="#1e88e5"><title>2025-10-22 O=1410.10 H=1413.75 L=1404.02 C=1406.72</title></rect>
+<line x1="283.3" y1="225.0" x2="283.3" y2="252.6" stroke="#e53935" stroke-width="1"/>
+<rect x="282.0" y="226.0" width="2.6" height="16.6" fill="#e53935"><title>2025-10-23 O=1403.02 H=1416.82 L=1395.22 C=1416.00</title></rect>
+<line x1="287.3" y1="212.1" x2="287.3" y2="249.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="286.0" y="226.1" width="2.6" height="22.9" fill="#1e88e5"><title>2025-10-24 O=1415.97 H=1426.90 L=1397.36 C=1398.02</title></rect>
+<line x1="291.2" y1="245.8" x2="291.2" y2="266.9" stroke="#e53935" stroke-width="1"/>
+<rect x="289.9" y="261.2" width="2.6" height="1.0" fill="#e53935"><title>2025-10-27 O=1388.02 H=1400.51 L=1384.01 C=1388.43</title></rect>
+<line x1="295.2" y1="247.5" x2="295.2" y2="260.3" stroke="#e53935" stroke-width="1"/>
+<rect x="293.9" y="255.4" width="2.6" height="3.8" fill="#e53935"><title>2025-10-28 O=1390.02 H=1399.22 L=1389.12 C=1393.02</title></rect>
+<line x1="299.2" y1="253.4" x2="299.2" y2="274.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="297.9" y="261.7" width="2.6" height="10.4" fill="#1e88e5"><title>2025-10-29 O=1388.04 H=1394.57 L=1378.06 C=1379.92</title></rect>
+<line x1="303.2" y1="266.0" x2="303.2" y2="285.0" stroke="#e53935" stroke-width="1"/>
+<rect x="301.9" y="278.7" width="2.6" height="6.3" fill="#e53935"><title>2025-10-30 O=1369.83 H=1384.65 L=1369.83 C=1374.76</title></rect>
+<line x1="307.2" y1="266.9" x2="307.2" y2="287.1" stroke="#e53935" stroke-width="1"/>
+<rect x="305.9" y="274.5" width="2.6" height="10.2" fill="#e53935"><title>2025-10-31 O=1370.02 H=1384.00 L=1368.13 C=1378.03</title></rect>
+<line x1="311.2" y1="251.5" x2="311.2" y2="287.1" stroke="#e53935" stroke-width="1"/>
+<rect x="309.9" y="268.1" width="2.6" height="5.1" fill="#e53935"><title>2025-11-03 O=1379.02 H=1396.02 L=1368.12 C=1383.02</title></rect>
+<line x1="315.2" y1="267.1" x2="315.2" y2="282.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="313.9" y="268.0" width="2.6" height="7.8" fill="#1e88e5"><title>2025-11-04 O=1383.12 H=1383.80 L=1371.80 C=1377.02</title></rect>
+<line x1="319.1" y1="273.2" x2="319.1" y2="287.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="317.9" y="279.7" width="2.6" height="7.4" fill="#1e88e5"><title>2025-11-05 O=1373.91 H=1379.01 L=1368.03 C=1368.10</title></rect>
+<line x1="323.1" y1="259.9" x2="323.1" y2="274.5" stroke="#e53935" stroke-width="1"/>
+<rect x="321.8" y="268.0" width="2.6" height="6.5" fill="#e53935"><title>2025-11-06 O=1378.02 H=1389.47 L=1378.01 C=1383.15</title></rect>
+<line x1="327.1" y1="262.0" x2="327.1" y2="273.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="325.8" y="268.0" width="2.6" height="2.3" fill="#1e88e5"><title>2025-11-07 O=1383.13 H=1387.80 L=1379.13 C=1381.35</title></rect>
+<line x1="331.1" y1="231.5" x2="331.1" y2="268.1" stroke="#e53935" stroke-width="1"/>
+<rect x="329.8" y="233.3" width="2.6" height="34.8" fill="#e53935"><title>2025-11-10 O=1383.02 H=1411.71 L=1383.00 C=1410.32</title></rect>
+<line x1="335.1" y1="233.4" x2="335.1" y2="252.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="333.8" y="233.7" width="2.6" height="3.8" fill="#1e88e5"><title>2025-11-11 O=1410.02 H=1410.20 L=1395.02 C=1407.01</title></rect>
+<line x1="339.1" y1="212.8" x2="339.1" y2="237.2" stroke="#e53935" stroke-width="1"/>
+<rect x="337.8" y="229.7" width="2.6" height="6.6" fill="#e53935"><title>2025-11-12 O=1408.00 H=1426.38 L=1407.23 C=1413.17</title></rect>
+<line x1="343.1" y1="218.9" x2="343.1" y2="238.8" stroke="#e53935" stroke-width="1"/>
+<rect x="341.8" y="223.0" width="2.6" height="10.5" fill="#e53935"><title>2025-11-13 O=1410.14 H=1421.60 L=1406.02 C=1418.40</title></rect>
+<line x1="347.1" y1="212.0" x2="347.1" y2="240.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="345.8" y="223.5" width="2.6" height="17.1" fill="#1e88e5"><title>2025-11-14 O=1418.02 H=1426.97 L=1404.32 C=1404.62</title></rect>
+<line x1="351.0" y1="219.6" x2="351.0" y2="254.4" stroke="#e53935" stroke-width="1"/>
+<rect x="349.7" y="222.2" width="2.6" height="21.7" fill="#e53935"><title>2025-11-17 O=1402.02 H=1421.02 L=1393.81 C=1419.02</title></rect>
+<line x1="355.0" y1="203.0" x2="355.0" y2="224.7" stroke="#e53935" stroke-width="1"/>
+<rect x="353.7" y="215.8" width="2.6" height="6.8" fill="#e53935"><title>2025-11-18 O=1418.72 H=1434.09 L=1417.02 C=1424.02</title></rect>
+<line x1="359.0" y1="211.3" x2="359.0" y2="223.5" stroke="#1e88e5" stroke-width="1"/>
+<rect x="357.7" y="218.4" width="2.6" height="3.8" fill="#1e88e5"><title>2025-11-19 O=1422.02 H=1427.55 L=1417.98 C=1419.03</title></rect>
+<line x1="363.0" y1="210.8" x2="363.0" y2="229.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="361.7" y="220.9" width="2.6" height="6.2" fill="#1e88e5"><title>2025-11-20 O=1420.02 H=1427.92 L=1413.05 C=1415.13</title></rect>
+<line x1="367.0" y1="210.7" x2="367.0" y2="241.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="365.7" y="222.8" width="2.6" height="5.0" fill="#1e88e5"><title>2025-11-21 O=1418.52 H=1428.02 L=1404.02 C=1414.62</title></rect>
+<line x1="371.0" y1="222.2" x2="371.0" y2="247.5" stroke="#1e88e5" stroke-width="1"/>
+<rect x="369.7" y="227.3" width="2.6" height="19.1" fill="#1e88e5"><title>2025-11-24 O=1415.02 H=1419.02 L=1399.15 C=1400.02</title></rect>
+<line x1="375.0" y1="238.8" x2="375.0" y2="256.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="373.7" y="238.8" width="2.6" height="17.0" fill="#1e88e5"><title>2025-11-25 O=1406.02 H=1406.02 L=1392.52 C=1392.67</title></rect>
+<line x1="378.9" y1="244.5" x2="378.9" y2="257.2" stroke="#e53935" stroke-width="1"/>
+<rect x="377.7" y="250.1" width="2.6" height="1.0" fill="#e53935"><title>2025-11-26 O=1396.90 H=1401.51 L=1391.60 C=1397.17</title></rect>
+<line x1="382.9" y1="249.0" x2="382.9" y2="263.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="381.6" y="249.6" width="2.6" height="2.8" fill="#1e88e5"><title>2025-11-27 O=1397.52 H=1398.02 L=1387.06 C=1395.32</title></rect>
+<line x1="386.9" y1="242.0" x2="386.9" y2="257.9" stroke="#e53935" stroke-width="1"/>
+<rect x="385.6" y="248.3" width="2.6" height="5.1" fill="#e53935"><title>2025-11-28 O=1394.52 H=1403.52 L=1391.02 C=1398.52</title></rect>
+<line x1="390.9" y1="233.3" x2="390.9" y2="259.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="389.6" y="247.7" width="2.6" height="3.8" fill="#1e88e5"><title>2025-12-01 O=1399.02 H=1410.29 L=1390.02 C=1396.02</title></rect>
+<line x1="394.9" y1="246.5" x2="394.9" y2="268.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="393.6" y="251.5" width="2.6" height="15.3" fill="#1e88e5"><title>2025-12-02 O=1396.02 H=1399.94 L=1383.04 C=1384.05</title></rect>
+<line x1="398.9" y1="266.9" x2="398.9" y2="277.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="397.6" y="267.1" width="2.6" height="8.6" fill="#1e88e5"><title>2025-12-03 O=1383.83 H=1383.99 L=1376.02 C=1377.12</title></rect>
+<line x1="402.9" y1="271.3" x2="402.9" y2="289.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="401.6" y="275.6" width="2.6" height="6.5" fill="#1e88e5"><title>2025-12-04 O=1377.12 H=1380.52 L=1366.40 C=1372.00</title></rect>
+<line x1="406.8" y1="270.6" x2="406.8" y2="287.9" stroke="#e53935" stroke-width="1"/>
+<rect x="405.6" y="274.5" width="2.6" height="7.7" fill="#e53935"><title>2025-12-05 O=1372.00 H=1381.11 L=1367.52 C=1378.03</title></rect>
+<line x1="410.8" y1="266.0" x2="410.8" y2="289.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="409.5" y="275.5" width="2.6" height="14.0" fill="#1e88e5"><title>2025-12-08 O=1377.22 H=1384.69 L=1366.02 C=1366.24</title></rect>
+<line x1="414.8" y1="286.0" x2="414.8" y2="312.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="413.5" y="289.5" width="2.6" height="22.0" fill="#1e88e5"><title>2025-12-09 O=1366.25 H=1369.02 L=1348.07 C=1349.03</title></rect>
+<line x1="418.8" y1="309.2" x2="418.8" y2="334.2" stroke="#e53935" stroke-width="1"/>
+<rect x="417.5" y="309.2" width="2.6" height="3.6" fill="#e53935"><title>2025-12-10 O=1348.02 H=1350.82 L=1331.20 C=1350.82</title></rect>
+<line x1="422.8" y1="297.5" x2="422.8" y2="310.8" stroke="#e53935" stroke-width="1"/>
+<rect x="421.5" y="297.5" width="2.6" height="6.8" fill="#e53935"><title>2025-12-11 O=1354.68 H=1360.01 L=1349.57 C=1360.01</title></rect>
+<line x1="426.8" y1="280.9" x2="426.8" y2="295.5" stroke="#e53935" stroke-width="1"/>
+<rect x="425.5" y="286.4" width="2.6" height="3.4" fill="#e53935"><title>2025-12-12 O=1366.02 H=1373.02 L=1361.59 C=1368.67</title></rect>
+<line x1="430.8" y1="261.8" x2="430.8" y2="280.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="429.5" y="262.3" width="2.6" height="17.3" fill="#1e88e5"><title>2025-12-15 O=1387.61 H=1388.01 L=1373.59 C=1374.02</title></rect>
+<line x1="434.8" y1="276.1" x2="434.8" y2="293.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="433.5" y="279.3" width="2.6" height="5.4" fill="#1e88e5"><title>2025-12-16 O=1374.22 H=1376.80 L=1363.02 C=1370.02</title></rect>
+<line x1="438.7" y1="261.8" x2="438.7" y2="290.2" stroke="#e53935" stroke-width="1"/>
+<rect x="437.5" y="270.5" width="2.6" height="10.3" fill="#e53935"><title>2025-12-17 O=1373.02 H=1387.96 L=1365.70 C=1381.12</title></rect>
+<line x1="442.7" y1="263.2" x2="442.7" y2="279.5" stroke="#1e88e5" stroke-width="1"/>
+<rect x="441.4" y="270.0" width="2.6" height="3.2" fill="#1e88e5"><title>2025-12-18 O=1381.52 H=1386.90 L=1374.13 C=1379.02</title></rect>
+<line x1="446.7" y1="266.3" x2="446.7" y2="280.9" stroke="#e53935" stroke-width="1"/>
+<rect x="445.4" y="269.4" width="2.6" height="1.0" fill="#e53935"><title>2025-12-19 O=1381.98 H=1384.43 L=1372.99 C=1381.98</title></rect>
+<line x1="450.7" y1="264.2" x2="450.7" y2="273.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="449.4" y="269.4" width="2.6" height="2.2" fill="#1e88e5"><title>2025-12-22 O=1381.98 H=1386.12 L=1378.56 C=1380.24</title></rect>
+<line x1="454.7" y1="265.7" x2="454.7" y2="285.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="453.4" y="271.7" width="2.6" height="1.0" fill="#1e88e5"><title>2025-12-23 O=1380.24 H=1384.91 L=1369.17 C=1379.84</title></rect>
+<line x1="458.7" y1="274.1" x2="458.7" y2="282.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="457.4" y="275.8" width="2.6" height="5.2" fill="#1e88e5"><title>2025-12-24 O=1376.97 H=1378.34 L=1371.98 C=1372.88</title></rect>
+<line x1="462.7" y1="257.4" x2="462.7" y2="280.4" stroke="#e53935" stroke-width="1"/>
+<rect x="461.4" y="264.1" width="2.6" height="11.7" fill="#e53935"><title>2025-12-25 O=1376.98 H=1391.46 L=1373.36 C=1386.15</title></rect>
+<line x1="466.6" y1="257.8" x2="466.6" y2="269.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="465.4" y="264.1" width="2.6" height="1.0" fill="#1e88e5"><title>2025-12-26 O=1386.15 H=1391.12 L=1381.98 C=1386.11</title></rect>
+<line x1="470.6" y1="264.2" x2="470.6" y2="280.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="469.3" y="264.2" width="2.6" height="15.5" fill="#1e88e5"><title>2025-12-29 O=1386.11 H=1386.11 L=1372.98 C=1373.98</title></rect>
+<line x1="474.6" y1="279.8" x2="474.6" y2="300.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="473.3" y="280.9" width="2.6" height="14.4" fill="#1e88e5"><title>2025-12-30 O=1372.98 H=1373.88 L=1357.98 C=1361.70</title></rect>
+<line x1="478.6" y1="289.9" x2="478.6" y2="311.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="477.3" y="295.0" width="2.6" height="16.4" fill="#1e88e5"><title>2025-12-31 O=1361.98 H=1365.98 L=1349.15 C=1349.16</title></rect>
+<line x1="482.6" y1="241.5" x2="482.6" y2="301.3" stroke="#e53935" stroke-width="1"/>
+<rect x="481.3" y="249.0" width="2.6" height="52.3" fill="#e53935"><title>2026-01-05 O=1356.98 H=1403.86 L=1356.98 C=1397.98</title></rect>
+<line x1="486.6" y1="235.0" x2="486.6" y2="261.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="485.3" y="240.7" width="2.6" height="5.8" fill="#1e88e5"><title>2026-01-06 O=1404.53 H=1408.95 L=1388.51 C=1399.99</title></rect>
+<line x1="490.6" y1="237.5" x2="490.6" y2="256.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="489.3" y="240.3" width="2.6" height="12.1" fill="#1e88e5"><title>2026-01-07 O=1404.86 H=1406.98 L=1392.18 C=1395.34</title></rect>
+<line x1="494.6" y1="252.4" x2="494.6" y2="271.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="493.3" y="252.4" width="2.6" height="14.1" fill="#1e88e5"><title>2026-01-08 O=1395.31 H=1395.34 L=1380.12 C=1384.28</title></rect>
+<line x1="498.5" y1="245.7" x2="498.5" y2="261.8" stroke="#e53935" stroke-width="1"/>
+<rect x="497.3" y="257.8" width="2.6" height="2.7" fill="#e53935"><title>2026-01-09 O=1388.98 H=1400.58 L=1387.99 C=1391.08</title></rect>
+<line x1="502.5" y1="242.7" x2="502.5" y2="260.4" stroke="#e53935" stroke-width="1"/>
+<rect x="501.2" y="252.6" width="2.6" height="5.3" fill="#e53935"><title>2026-01-12 O=1391.08 H=1402.98 L=1389.08 C=1395.21</title></rect>
+<line x1="506.5" y1="244.5" x2="506.5" y2="270.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="505.2" y="248.0" width="2.6" height="20.1" fill="#1e88e5"><title>2026-01-13 O=1398.77 H=1401.50 L=1380.97 C=1382.98</title></rect>
+<line x1="510.5" y1="253.8" x2="510.5" y2="287.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="509.2" y="268.2" width="2.6" height="16.6" fill="#1e88e5"><title>2026-01-14 O=1382.98 H=1394.23 L=1368.16 C=1369.99</title></rect>
+<line x1="514.5" y1="278.6" x2="514.5" y2="296.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="513.2" y="287.3" width="2.6" height="9.1" fill="#1e88e5"><title>2026-01-15 O=1368.00 H=1374.81 L=1360.56 C=1360.87</title></rect>
+<line x1="518.5" y1="285.4" x2="518.5" y2="307.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="517.2" y="288.6" width="2.6" height="16.6" fill="#1e88e5"><title>2026-01-16 O=1366.98 H=1369.48 L=1351.98 C=1353.98</title></rect>
+<line x1="522.5" y1="298.2" x2="522.5" y2="314.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="521.2" y="305.3" width="2.6" height="7.5" fill="#1e88e5"><title>2026-01-19 O=1353.88 H=1359.47 L=1346.98 C=1347.98</title></rect>
+<line x1="526.4" y1="305.7" x2="526.4" y2="317.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="525.2" y="308.4" width="2.6" height="7.6" fill="#1e88e5"><title>2026-01-20 O=1351.48 H=1353.56 L=1344.03 C=1345.53</title></rect>
+<line x1="530.4" y1="314.9" x2="530.4" y2="346.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="529.1" y="315.9" width="2.6" height="28.7" fill="#1e88e5"><title>2026-01-21 O=1345.54 H=1346.38 L=1321.98 C=1323.04</title></rect>
+<line x1="534.4" y1="331.0" x2="534.4" y2="362.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="533.1" y="343.4" width="2.6" height="15.2" fill="#1e88e5"><title>2026-01-22 O=1323.99 H=1333.74 L=1309.46 C=1312.04</title></rect>
+<line x1="538.4" y1="348.6" x2="538.4" y2="368.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="537.1" y="358.6" width="2.6" height="4.0" fill="#1e88e5"><title>2026-01-23 O=1312.08 H=1319.98 L=1304.45 C=1308.98</title></rect>
+<line x1="542.4" y1="339.6" x2="542.4" y2="377.7" stroke="#e53935" stroke-width="1"/>
+<rect x="541.1" y="356.2" width="2.6" height="1.9" fill="#e53935"><title>2026-01-26 O=1312.49 H=1326.98 L=1297.10 C=1313.98</title></rect>
+<line x1="546.4" y1="341.3" x2="546.4" y2="361.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="545.1" y="352.4" width="2.6" height="2.5" fill="#1e88e5"><title>2026-01-27 O=1316.96 H=1325.68 L=1309.98 C=1314.99</title></rect>
+<line x1="550.4" y1="350.2" x2="550.4" y2="381.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="549.1" y="354.9" width="2.6" height="24.7" fill="#1e88e5"><title>2026-01-28 O=1315.02 H=1318.69 L=1293.99 C=1295.67</title></rect>
+<line x1="554.4" y1="224.8" x2="554.4" y2="372.7" stroke="#e53935" stroke-width="1"/>
+<rect x="553.1" y="234.1" width="2.6" height="131.1" fill="#e53935"><title>2026-01-29 O=1306.98 H=1416.98 L=1301.04 C=1409.70</title></rect>
+<line x1="558.3" y1="237.5" x2="558.3" y2="280.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="557.0" y="237.5" width="2.6" height="43.4" fill="#1e88e5"><title>2026-01-30 O=1406.98 H=1406.98 L=1372.98 C=1372.98</title></rect>
+<line x1="562.3" y1="207.5" x2="562.3" y2="267.4" stroke="#e53935" stroke-width="1"/>
+<rect x="561.0" y="247.8" width="2.6" height="2.6" fill="#e53935"><title>2026-02-02 O=1396.98 H=1430.56 L=1383.60 C=1398.98</title></rect>
+<line x1="566.3" y1="184.2" x2="566.3" y2="227.3" stroke="#e53935" stroke-width="1"/>
+<rect x="565.0" y="186.6" width="2.6" height="38.2" fill="#e53935"><title>2026-02-03 O=1416.98 H=1448.79 L=1415.01 C=1446.90</title></rect>
+<line x1="570.3" y1="112.2" x2="570.3" y2="187.8" stroke="#e53935" stroke-width="1"/>
+<rect x="569.0" y="122.7" width="2.6" height="51.0" fill="#e53935"><title>2026-02-04 O=1456.98 H=1505.25 L=1445.98 C=1496.98</title></rect>
+<line x1="574.3" y1="71.7" x2="574.3" y2="135.5" stroke="#e53935" stroke-width="1"/>
+<rect x="573.0" y="84.4" width="2.6" height="44.7" fill="#e53935"><title>2026-02-05 O=1491.98 H=1536.98 L=1486.98 C=1526.98</title></rect>
+<line x1="578.3" y1="67.9" x2="578.3" y2="147.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="577.0" y="84.4" width="2.6" height="51.0" fill="#1e88e5"><title>2026-02-06 O=1526.98 H=1539.98 L=1477.86 C=1486.99</title></rect>
+<line x1="582.3" y1="99.9" x2="582.3" y2="137.4" stroke="#e53935" stroke-width="1"/>
+<rect x="581.0" y="122.8" width="2.6" height="8.9" fill="#e53935"><title>2026-02-09 O=1489.98 H=1514.86 L=1485.47 C=1496.94</title></rect>
+<line x1="586.2" y1="122.8" x2="586.2" y2="159.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="585.0" y="122.8" width="2.6" height="25.7" fill="#1e88e5"><title>2026-02-10 O=1496.95 H=1496.95 L=1468.48 C=1476.78</title></rect>
+<line x1="590.2" y1="136.8" x2="590.2" y2="159.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="588.9" y="148.5" width="2.6" height="1.0" fill="#1e88e5"><title>2026-02-11 O=1476.78 H=1485.98 L=1467.98 C=1476.31</title></rect>
+<line x1="594.2" y1="151.0" x2="594.2" y2="188.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="592.9" y="154.4" width="2.6" height="17.4" fill="#1e88e5"><title>2026-02-12 O=1472.18 H=1474.80 L=1445.34 C=1458.58</title></rect>
+<line x1="598.2" y1="144.7" x2="598.2" y2="192.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="596.9" y="171.7" width="2.6" height="1.7" fill="#1e88e5"><title>2026-02-13 O=1458.58 H=1479.78 L=1442.56 C=1457.28</title></rect>
+<line x1="602.2" y1="123.5" x2="602.2" y2="201.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="600.9" y="127.8" width="2.6" height="69.2" fill="#1e88e5"><title>2026-02-24 O=1492.98 H=1496.38 L=1435.58 C=1438.78</title></rect>
+<line x1="606.2" y1="142.3" x2="606.2" y2="195.6" stroke="#e53935" stroke-width="1"/>
+<rect x="604.9" y="165.3" width="2.6" height="27.6" fill="#e53935"><title>2026-02-25 O=1441.98 H=1481.64 L=1439.86 C=1463.64</title></rect>
+<line x1="610.2" y1="168.0" x2="610.2" y2="199.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="608.9" y="171.7" width="2.6" height="26.0" fill="#1e88e5"><title>2026-02-26 O=1458.58 H=1461.47 L=1436.65 C=1438.19</title></rect>
+<line x1="614.2" y1="185.0" x2="614.2" y2="212.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="612.9" y="196.7" width="2.6" height="15.3" fill="#1e88e5"><title>2026-02-27 O=1438.97 H=1448.19 L=1427.00 C=1427.00</title></rect>
+<line x1="618.1" y1="209.5" x2="618.1" y2="235.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="616.8" y="218.4" width="2.6" height="12.6" fill="#1e88e5"><title>2026-03-02 O=1421.98 H=1428.98 L=1408.64 C=1412.09</title></rect>
+<line x1="622.1" y1="214.7" x2="622.1" y2="254.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="620.8" y="231.0" width="2.6" height="17.7" fill="#1e88e5"><title>2026-03-03 O=1412.08 H=1424.85 L=1394.11 C=1398.17</title></rect>
+<line x1="626.1" y1="252.9" x2="626.1" y2="292.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="624.8" y="263.1" width="2.6" height="17.6" fill="#1e88e5"><title>2026-03-04 O=1386.98 H=1394.98 L=1364.07 C=1373.16</title></rect>
+<line x1="630.1" y1="265.7" x2="630.1" y2="288.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="628.8" y="274.6" width="2.6" height="8.9" fill="#1e88e5"><title>2026-03-05 O=1377.98 H=1384.94 L=1366.98 C=1371.02</title></rect>
+<line x1="634.1" y1="272.6" x2="634.1" y2="297.5" stroke="#e53935" stroke-width="1"/>
+<rect x="632.8" y="279.7" width="2.6" height="8.9" fill="#e53935"><title>2026-03-06 O=1366.98 H=1379.48 L=1359.98 C=1373.98</title></rect>
+<line x1="638.1" y1="276.0" x2="638.1" y2="303.6" stroke="#e53935" stroke-width="1"/>
+<rect x="636.8" y="286.0" width="2.6" height="8.9" fill="#e53935"><title>2026-03-09 O=1361.98 H=1376.88 L=1355.18 C=1368.98</title></rect>
+<line x1="642.1" y1="270.1" x2="642.1" y2="284.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="640.8" y="276.0" width="2.6" height="3.9" fill="#1e88e5"><title>2026-03-10 O=1376.88 H=1381.47 L=1369.98 C=1373.86</title></rect>
+<line x1="646.0" y1="274.6" x2="646.0" y2="284.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="644.8" y="278.4" width="2.6" height="3.8" fill="#1e88e5"><title>2026-03-11 O=1374.97 H=1377.97 L=1370.00 C=1371.98</title></rect>
+<line x1="650.0" y1="277.2" x2="650.0" y2="293.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="648.7" y="288.6" width="2.6" height="3.8" fill="#1e88e5"><title>2026-03-12 O=1366.98 H=1375.93 L=1362.99 C=1363.98</title></rect>
+<line x1="654.0" y1="259.7" x2="654.0" y2="292.4" stroke="#e53935" stroke-width="1"/>
+<rect x="652.7" y="264.8" width="2.6" height="27.0" fill="#e53935"><title>2026-03-13 O=1364.46 H=1389.60 L=1363.98 C=1385.62</title></rect>
+<line x1="658.0" y1="198.0" x2="658.0" y2="256.7" stroke="#e53935" stroke-width="1"/>
+<rect x="656.7" y="205.4" width="2.6" height="51.3" fill="#e53935"><title>2026-03-16 O=1391.98 H=1437.98 L=1391.98 C=1432.16</title></rect>
+<line x1="662.0" y1="157.1" x2="662.0" y2="204.1" stroke="#e53935" stroke-width="1"/>
+<rect x="660.7" y="173.8" width="2.6" height="21.7" fill="#e53935"><title>2026-03-17 O=1439.98 H=1470.05 L=1433.17 C=1456.98</title></rect>
+<line x1="666.0" y1="159.1" x2="666.0" y2="201.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="664.7" y="168.6" width="2.6" height="25.8" fill="#1e88e5"><title>2026-03-18 O=1460.98 H=1468.48 L=1435.13 C=1440.78</title></rect>
+<line x1="670.0" y1="189.1" x2="670.0" y2="223.5" stroke="#1e88e5" stroke-width="1"/>
+<rect x="668.7" y="189.1" width="2.6" height="25.6" fill="#1e88e5"><title>2026-03-19 O=1444.94 H=1444.98 L=1417.98 C=1424.85</title></rect>
+<line x1="674.0" y1="202.5" x2="674.0" y2="232.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="672.7" y="214.6" width="2.6" height="10.2" fill="#1e88e5"><title>2026-03-20 O=1424.94 H=1434.48 L=1410.98 C=1416.98</title></rect>
+<line x1="677.9" y1="237.5" x2="677.9" y2="282.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="676.6" y="239.7" width="2.6" height="32.2" fill="#1e88e5"><title>2026-03-23 O=1405.31 H=1406.98 L=1372.01 C=1380.05</title></rect>
+<line x1="681.9" y1="259.8" x2="681.9" y2="282.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="680.6" y="261.8" width="2.6" height="11.1" fill="#1e88e5"><title>2026-03-24 O=1387.98 H=1389.57 L=1372.16 C=1379.31</title></rect>
+<line x1="685.9" y1="259.4" x2="685.9" y2="280.9" stroke="#e53935" stroke-width="1"/>
+<rect x="684.6" y="269.1" width="2.6" height="1.0" fill="#e53935"><title>2026-03-25 O=1382.09 H=1389.85 L=1372.99 C=1382.25</title></rect>
+<line x1="689.9" y1="264.5" x2="689.9" y2="281.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="688.6" y="270.7" width="2.6" height="10.0" fill="#1e88e5"><title>2026-03-26 O=1380.98 H=1385.88 L=1372.28 C=1373.16</title></rect>
+<line x1="693.9" y1="249.0" x2="693.9" y2="286.5" stroke="#e53935" stroke-width="1"/>
+<rect x="692.6" y="261.8" width="2.6" height="20.4" fill="#e53935"><title>2026-03-27 O=1371.98 H=1397.98 L=1368.64 C=1388.00</title></rect>
+<line x1="697.9" y1="242.7" x2="697.9" y2="279.0" stroke="#e53935" stroke-width="1"/>
+<rect x="696.6" y="256.7" width="2.6" height="16.6" fill="#e53935"><title>2026-03-30 O=1378.98 H=1402.98 L=1374.50 C=1391.98</title></rect>
+<line x1="701.9" y1="180.2" x2="701.9" y2="220.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="700.6" y="195.4" width="2.6" height="23.0" fill="#1e88e5"><title>2026-03-31 O=1439.98 H=1451.91 L=1420.39 C=1421.98</title></rect>
+<line x1="705.8" y1="192.9" x2="705.8" y2="214.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="704.6" y="199.9" width="2.6" height="6.4" fill="#1e88e5"><title>2026-04-01 O=1436.47 H=1441.97 L=1424.86 C=1431.42</title></rect>
+<line x1="709.8" y1="199.4" x2="709.8" y2="215.7" stroke="#e53935" stroke-width="1"/>
+<rect x="708.5" y="205.8" width="2.6" height="1.0" fill="#e53935"><title>2026-04-02 O=1431.42 H=1436.86 L=1424.08 C=1431.86</title></rect>
+<line x1="713.8" y1="192.9" x2="713.8" y2="212.0" stroke="#e53935" stroke-width="1"/>
+<rect x="712.5" y="205.7" width="2.6" height="1.0" fill="#e53935"><title>2026-04-03 O=1431.52 H=1441.94 L=1426.98 C=1431.98</title></rect>
+<line x1="717.8" y1="192.9" x2="717.8" y2="237.5" stroke="#1e88e5" stroke-width="1"/>
+<rect x="716.5" y="205.6" width="2.6" height="25.6" fill="#1e88e5"><title>2026-04-07 O=1432.03 H=1441.98 L=1407.03 C=1412.00</title></rect>
+<line x1="721.8" y1="194.1" x2="721.8" y2="215.7" stroke="#e53935" stroke-width="1"/>
+<rect x="720.5" y="199.2" width="2.6" height="6.4" fill="#e53935"><title>2026-04-08 O=1431.98 H=1441.06 L=1424.11 C=1437.00</title></rect>
+<line x1="725.8" y1="199.2" x2="725.8" y2="221.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="724.5" y="199.2" width="2.6" height="5.8" fill="#1e88e5"><title>2026-04-09 O=1437.00 H=1437.00 L=1419.48 C=1432.47</title></rect>
+<line x1="729.8" y1="206.0" x2="729.8" y2="229.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="728.5" y="206.7" width="2.6" height="6.6" fill="#1e88e5"><title>2026-04-10 O=1431.12 H=1431.69 L=1413.08 C=1425.94</title></rect>
+<line x1="733.8" y1="222.9" x2="733.8" y2="240.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="732.5" y="226.1" width="2.6" height="1.0" fill="#1e88e5"><title>2026-04-13 O=1415.98 H=1418.48 L=1404.98 C=1415.29</title></rect>
+<line x1="737.7" y1="220.2" x2="737.7" y2="237.5" stroke="#e53935" stroke-width="1"/>
+<rect x="736.4" y="222.4" width="2.6" height="5.5" fill="#e53935"><title>2026-04-14 O=1414.58 H=1420.58 L=1406.98 C=1418.88</title></rect>
+<line x1="741.7" y1="191.9" x2="741.7" y2="228.6" stroke="#e53935" stroke-width="1"/>
+<rect x="740.4" y="196.1" width="2.6" height="28.7" fill="#e53935"><title>2026-04-15 O=1416.96 H=1442.77 L=1413.98 C=1439.48</title></rect>
+<line x1="745.7" y1="183.4" x2="745.7" y2="205.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="744.4" y="196.1" width="2.6" height="5.9" fill="#1e88e5"><title>2026-04-16 O=1439.43 H=1449.39 L=1431.98 C=1434.82</title></rect>
+<line x1="749.7" y1="255.4" x2="749.7" y2="282.4" stroke="#e53935" stroke-width="1"/>
+<rect x="748.4" y="273.0" width="2.6" height="9.2" fill="#e53935"><title>2026-04-17 O=1371.98 H=1392.98 L=1371.85 C=1379.22</title></rect>
+<line x1="753.7" y1="264.4" x2="753.7" y2="282.2" stroke="#e53935" stroke-width="1"/>
+<rect x="752.4" y="268.3" width="2.6" height="10.1" fill="#e53935"><title>2026-04-20 O=1374.98 H=1385.92 L=1371.98 C=1382.87</title></rect>
+<line x1="757.7" y1="256.8" x2="757.7" y2="269.4" stroke="#e53935" stroke-width="1"/>
+<rect x="756.4" y="266.9" width="2.6" height="1.3" fill="#e53935"><title>2026-04-21 O=1382.98 H=1391.88 L=1381.98 C=1383.99</title></rect>
+<line x1="761.7" y1="258.0" x2="761.7" y2="275.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="760.4" y="263.1" width="2.6" height="7.0" fill="#1e88e5"><title>2026-04-22 O=1386.98 H=1390.98 L=1376.96 C=1381.48</title></rect>
+<line x1="765.6" y1="257.1" x2="765.6" y2="275.7" stroke="#e53935" stroke-width="1"/>
+<rect x="764.4" y="258.0" width="2.6" height="14.0" fill="#e53935"><title>2026-04-23 O=1379.98 H=1391.68 L=1377.08 C=1390.98</title></rect>
+<line x1="769.6" y1="207.1" x2="769.6" y2="265.5" stroke="#e53935" stroke-width="1"/>
+<rect x="768.3" y="207.6" width="2.6" height="57.9" fill="#e53935"><title>2026-04-24 O=1385.08 H=1430.86 L=1385.08 C=1430.47</title></rect>
+<line x1="773.6" y1="256.7" x2="773.6" y2="279.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="772.3" y="256.7" width="2.6" height="21.4" fill="#1e88e5"><title>2026-04-27 O=1391.98 H=1391.98 L=1374.18 C=1375.18</title></rect>
+<line x1="777.6" y1="270.2" x2="777.6" y2="282.1" stroke="#e53935" stroke-width="1"/>
+<rect x="776.3" y="275.8" width="2.6" height="3.8" fill="#e53935"><title>2026-04-28 O=1373.98 H=1381.37 L=1372.09 C=1376.98</title></rect>
+<line x1="781.6" y1="269.8" x2="781.6" y2="281.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="780.3" y="275.8" width="2.6" height="4.9" fill="#1e88e5"><title>2026-04-29 O=1376.98 H=1381.73 L=1372.26 C=1373.15</title></rect>
+<line x1="785.6" y1="280.7" x2="785.6" y2="307.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="784.3" y="282.2" width="2.6" height="19.4" fill="#1e88e5"><title>2026-04-30 O=1371.98 H=1373.15 L=1351.98 C=1356.77</title></rect>
+<line x1="789.6" y1="309.0" x2="789.6" y2="333.2" stroke="#e53935" stroke-width="1"/>
+<rect x="788.3" y="314.1" width="2.6" height="12.6" fill="#e53935"><title>2026-05-06 O=1337.08 H=1350.98 L=1332.03 C=1346.98</title></rect>
+<line x1="793.6" y1="297.5" x2="793.6" y2="320.5" stroke="#1e88e5" stroke-width="1"/>
+<rect x="792.3" y="314.1" width="2.6" height="5.0" fill="#1e88e5"><title>2026-05-07 O=1346.98 H=1359.98 L=1341.99 C=1343.03</title></rect>
+<line x1="797.5" y1="304.2" x2="797.5" y2="320.5" stroke="#e53935" stroke-width="1"/>
+<rect x="796.2" y="316.7" width="2.6" height="1.7" fill="#e53935"><title>2026-05-08 O=1343.64 H=1354.75 L=1341.98 C=1344.97</title></rect>
+<line x1="801.5" y1="316.8" x2="801.5" y2="332.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="800.2" y="316.8" width="2.6" height="14.7" fill="#1e88e5"><title>2026-05-11 O=1344.87 H=1344.87 L=1332.98 C=1333.31</title></rect>
+<line x1="805.5" y1="328.7" x2="805.5" y2="345.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="804.2" y="330.7" width="2.6" height="9.5" fill="#1e88e5"><title>2026-05-12 O=1333.98 H=1335.56 L=1322.48 C=1326.53</title></rect>
+<line x1="809.5" y1="335.0" x2="809.5" y2="361.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="808.2" y="340.3" width="2.6" height="13.3" fill="#1e88e5"><title>2026-05-13 O=1326.48 H=1330.58 L=1309.98 C=1316.07</title></rect>
+<line x1="813.5" y1="321.7" x2="813.5" y2="364.9" stroke="#e53935" stroke-width="1"/>
+<rect x="812.2" y="356.0" width="2.6" height="5.3" fill="#e53935"><title>2026-05-14 O=1309.98 H=1341.04 L=1307.16 C=1314.15</title></rect>
+<line x1="817.5" y1="359.7" x2="817.5" y2="375.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="816.2" y="365.0" width="2.6" height="2.8" fill="#1e88e5"><title>2026-05-15 O=1307.13 H=1311.26 L=1299.09 C=1304.93</title></rect>
+<line x1="821.5" y1="355.3" x2="821.5" y2="384.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="820.2" y="363.9" width="2.6" height="16.6" fill="#1e88e5"><title>2026-05-18 O=1307.98 H=1314.66 L=1291.59 C=1294.98</title></rect>
+<line x1="825.4" y1="371.5" x2="825.4" y2="386.8" stroke="#e53935" stroke-width="1"/>
+<rect x="824.2" y="378.8" width="2.6" height="3.1" fill="#e53935"><title>2026-05-19 O=1293.88 H=1301.97 L=1289.98 C=1296.28</title></rect>
+<line x1="829.4" y1="367.7" x2="829.4" y2="391.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="828.1" y="383.0" width="2.6" height="7.7" fill="#1e88e5"><title>2026-05-20 O=1292.98 H=1304.97 L=1285.98 C=1286.98</title></rect>
+<line x1="833.4" y1="379.8" x2="833.4" y2="395.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="832.1" y="393.2" width="2.6" height="2.5" fill="#1e88e5"><title>2026-05-21 O=1284.96 H=1295.50 L=1282.98 C=1282.98</title></rect>
+<line x1="837.4" y1="394.6" x2="837.4" y2="422.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="836.1" y="395.8" width="2.6" height="26.5" fill="#1e88e5"><title>2026-05-22 O=1282.93 H=1283.89 L=1262.10 C=1262.18</title></rect>
+<line x1="841.4" y1="403.7" x2="841.4" y2="439.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="840.1" y="426.4" width="2.6" height="1.4" fill="#1e88e5"><title>2026-05-25 O=1258.98 H=1276.77 L=1248.98 C=1257.86</title></rect>
+<line x1="845.4" y1="422.7" x2="845.4" y2="448.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="844.1" y="428.5" width="2.6" height="15.3" fill="#1e88e5"><title>2026-05-26 O=1257.33 H=1261.87 L=1241.99 C=1245.36</title></rect>
+<line x1="849.4" y1="385.6" x2="849.4" y2="473.5" stroke="#e53935" stroke-width="1"/>
+<rect x="848.1" y="406.0" width="2.6" height="44.6" fill="#e53935"><title>2026-05-27 O=1240.00 H=1290.98 L=1222.08 C=1274.98</title></rect>
+<line x1="853.4" y1="404.7" x2="853.4" y2="446.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="852.1" y="422.6" width="2.6" height="17.9" fill="#1e88e5"><title>2026-05-28 O=1261.98 H=1275.98 L=1242.98 C=1247.96</title></rect>
+<line x1="857.3" y1="372.8" x2="857.3" y2="448.1" stroke="#e53935" stroke-width="1"/>
+<rect x="856.0" y="376.6" width="2.6" height="70.7" fill="#e53935"><title>2026-05-29 O=1242.58 H=1300.98 L=1241.98 C=1297.98</title></rect>
+<line x1="861.3" y1="375.3" x2="861.3" y2="408.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="860.0" y="375.3" width="2.6" height="22.2" fill="#1e88e5"><title>2026-06-01 O=1298.98 H=1298.98 L=1273.29 C=1281.58</title></rect>
+<line x1="865.3" y1="376.2" x2="865.3" y2="408.5" stroke="#e53935" stroke-width="1"/>
+<rect x="864.0" y="400.6" width="2.6" height="1.6" fill="#e53935"><title>2026-06-02 O=1277.98 H=1298.34 L=1272.98 C=1279.20</title></rect>
+<line x1="869.3" y1="404.7" x2="869.3" y2="440.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="868.0" y="404.7" width="2.6" height="28.2" fill="#1e88e5"><title>2026-06-03 O=1275.98 H=1275.98 L=1247.98 C=1253.89</title></rect>
+<line x1="873.3" y1="423.8" x2="873.3" y2="452.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="872.0" y="436.6" width="2.6" height="14.0" fill="#1e88e5"><title>2026-06-04 O=1250.97 H=1260.97 L=1238.67 C=1239.98</title></rect>
+<line x1="877.3" y1="431.5" x2="877.3" y2="451.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="876.0" y="437.9" width="2.6" height="6.6" fill="#1e88e5"><title>2026-06-05 O=1249.98 H=1254.98 L=1239.72 C=1244.84</title></rect>
+<line x1="881.3" y1="437.9" x2="881.3" y2="460.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="880.0" y="445.5" width="2.6" height="11.5" fill="#1e88e5"><title>2026-06-08 O=1243.98 H=1249.98 L=1231.98 C=1234.96</title></rect>
+<line x1="885.2" y1="457.0" x2="885.2" y2="470.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="884.0" y="457.0" width="2.6" height="8.9" fill="#1e88e5"><title>2026-06-09 O=1234.97 H=1234.98 L=1224.53 C=1227.98</title></rect>
+<line x1="889.2" y1="432.8" x2="889.2" y2="473.3" stroke="#e53935" stroke-width="1"/>
+<rect x="887.9" y="440.6" width="2.6" height="30.4" fill="#e53935"><title>2026-06-10 O=1224.06 H=1253.98 L=1222.19 C=1247.86</title></rect>
+<line x1="893.2" y1="431.6" x2="893.2" y2="452.0" stroke="#e53935" stroke-width="1"/>
+<rect x="891.9" y="436.6" width="2.6" height="8.8" fill="#e53935"><title>2026-06-11 O=1244.10 H=1254.86 L=1238.89 C=1250.98</title></rect>
+<line x1="897.2" y1="416.2" x2="897.2" y2="454.4" stroke="#e53935" stroke-width="1"/>
+<rect x="895.9" y="420.1" width="2.6" height="26.4" fill="#e53935"><title>2026-06-12 O=1243.16 H=1266.98 L=1236.99 C=1263.89</title></rect>
+<line x1="901.2" y1="419.1" x2="901.2" y2="447.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="899.9" y="419.1" width="2.6" height="27.6" fill="#1e88e5"><title>2026-06-15 O=1264.68 H=1264.68 L=1242.08 C=1243.08</title></rect>
+<line x1="905.2" y1="450.8" x2="905.2" y2="467.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="903.9" y="451.9" width="2.6" height="14.5" fill="#1e88e5"><title>2026-06-16 O=1238.99 H=1239.86 L=1226.98 C=1227.65</title></rect>
+<line x1="909.2" y1="461.1" x2="909.2" y2="488.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="907.9" y="463.4" width="2.6" height="23.0" fill="#1e88e5"><title>2026-06-17 O=1229.98 H=1231.75 L=1210.54 C=1211.98</title></rect>
+<line x1="913.2" y1="487.8" x2="913.2" y2="523.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="911.9" y="492.7" width="2.6" height="25.5" fill="#1e88e5"><title>2026-06-18 O=1206.98 H=1210.85 L=1183.20 C=1186.98</title></rect>
+<line x1="917.1" y1="470.0" x2="917.1" y2="531.0" stroke="#e53935" stroke-width="1"/>
+<rect x="915.8" y="484.6" width="2.6" height="34.6" fill="#e53935"><title>2026-06-22 O=1186.29 H=1224.78 L=1176.98 C=1213.39</title></rect>
+<line x1="921.1" y1="455.7" x2="921.1" y2="515.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="919.8" y="487.6" width="2.6" height="21.1" fill="#1e88e5"><title>2026-06-23 O=1210.98 H=1235.98 L=1188.98 C=1194.43</title></rect>
+<line x1="925.1" y1="484.0" x2="925.1" y2="527.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="923.8" y="508.5" width="2.6" height="19.1" fill="#1e88e5"><title>2026-06-24 O=1194.63 H=1213.85 L=1179.49 C=1179.66</title></rect>
+<line x1="929.1" y1="502.9" x2="929.1" y2="537.4" stroke="#e53935" stroke-width="1"/>
+<rect x="927.8" y="522.0" width="2.6" height="6.5" fill="#e53935"><title>2026-06-25 O=1178.98 H=1198.98 L=1171.98 C=1184.08</title></rect>
+<line x1="933.1" y1="502.9" x2="933.1" y2="542.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="931.8" y="502.9" width="2.6" height="38.7" fill="#1e88e5"><title>2026-06-26 O=1199.00 H=1199.00 L=1168.10 C=1168.63</title></rect>
+<line x1="937.1" y1="482.5" x2="937.1" y2="564.1" stroke="#e53935" stroke-width="1"/>
+<rect x="935.8" y="508.1" width="2.6" height="33.1" fill="#e53935"><title>2026-06-29 O=1169.00 H=1215.00 L=1151.01 C=1194.96</title></rect>
+<line x1="941.1" y1="507.2" x2="941.1" y2="532.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="939.8" y="518.2" width="2.6" height="1.9" fill="#1e88e5"><title>2026-06-30 O=1187.00 H=1195.67 L=1176.00 C=1185.49</title></rect>
+<line x1="945.0" y1="505.7" x2="945.0" y2="544.6" stroke="#e53935" stroke-width="1"/>
+<rect x="943.8" y="510.6" width="2.6" height="16.5" fill="#e53935"><title>2026-07-01 O=1180.10 H=1196.80 L=1166.33 C=1193.01</title></rect>
+<line x1="949.0" y1="481.8" x2="949.0" y2="513.7" stroke="#e53935" stroke-width="1"/>
+<rect x="947.7" y="497.8" width="2.6" height="12.7" fill="#e53935"><title>2026-07-02 O=1193.01 H=1215.52 L=1190.51 C=1203.00</title></rect>
+<line x1="953.0" y1="488.7" x2="953.0" y2="520.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="951.7" y="495.0" width="2.6" height="13.8" fill="#1e88e5"><title>2026-07-03 O=1205.24 H=1210.14 L=1185.00 C=1194.45</title></rect>
+<line x1="957.0" y1="482.5" x2="957.0" y2="527.2" stroke="#e53935" stroke-width="1"/>
+<rect x="955.7" y="492.8" width="2.6" height="26.7" fill="#e53935"><title>2026-07-06 O=1186.00 H=1215.00 L=1180.00 C=1206.91</title></rect>
+<line x1="961.0" y1="499.1" x2="961.0" y2="516.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="959.7" y="501.6" width="2.6" height="14.3" fill="#1e88e5"><title>2026-07-07 O=1200.00 H=1202.00 L=1188.11 C=1188.80</title></rect>
+<line x1="965.0" y1="500.4" x2="965.0" y2="531.0" stroke="#e53935" stroke-width="1"/>
+<rect x="963.7" y="502.5" width="2.6" height="13.4" fill="#e53935"><title>2026-07-08 O=1188.77 H=1200.98 L=1177.00 C=1199.30</title></rect>
+<line x1="969.0" y1="511.9" x2="969.0" y2="529.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="967.7" y="513.1" width="2.6" height="11.2" fill="#1e88e5"><title>2026-07-09 O=1191.00 H=1191.99 L=1178.00 C=1182.19</title></rect>
+<line x1="972.9" y1="495.3" x2="972.9" y2="539.6" stroke="#e53935" stroke-width="1"/>
+<rect x="971.7" y="495.3" width="2.6" height="29.1" fill="#e53935"><title>2026-07-10 O=1182.20 H=1204.98 L=1170.28 C=1204.98</title></rect>
+<line x1="976.9" y1="482.5" x2="976.9" y2="514.2" stroke="#e53935" stroke-width="1"/>
+<rect x="975.6" y="487.6" width="2.6" height="17.7" fill="#e53935"><title>2026-07-13 O=1197.12 H=1215.00 L=1190.19 C=1210.99</title></rect>
+<line x1="980.9" y1="467.4" x2="980.9" y2="495.3" stroke="#e53935" stroke-width="1"/>
+<rect x="979.6" y="482.7" width="2.6" height="7.5" fill="#e53935"><title>2026-07-14 O=1208.99 H=1226.87 L=1205.00 C=1214.88</title></rect>
+<line x1="984.9" y1="429.4" x2="984.9" y2="503.4" stroke="#e53935" stroke-width="1"/>
+<rect x="983.6" y="436.5" width="2.6" height="60.5" fill="#e53935"><title>2026-07-15 O=1203.66 H=1256.60 L=1198.66 C=1251.06</title></rect>
+<line x1="988.9" y1="414.9" x2="988.9" y2="444.2" stroke="#e53935" stroke-width="1"/>
+<rect x="987.6" y="426.4" width="2.6" height="8.9" fill="#e53935"><title>2026-07-16 O=1252.00 H=1267.97 L=1245.05 C=1258.99</title></rect>
+<line x1="992.9" y1="413.2" x2="992.9" y2="451.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="991.6" y="413.6" width="2.6" height="20.4" fill="#1e88e5"><title>2026-07-17 O=1269.01 H=1269.33 L=1238.98 C=1253.00</title></rect>
+<line x1="996.9" y1="337.0" x2="996.9" y2="417.4" stroke="#e53935" stroke-width="1"/>
+<rect x="995.6" y="339.0" width="2.6" height="73.4" fill="#e53935"><title>2026-07-20 O=1270.00 H=1329.00 L=1266.00 C=1327.50</title></rect>
+<line x1="1000.9" y1="317.0" x2="1000.9" y2="378.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="999.6" y="324.3" width="2.6" height="39.5" fill="#1e88e5"><title>2026-07-21 O=1338.98 H=1344.70 L=1296.87 C=1308.00</title></rect>
+<line x1="1004.8" y1="363.8" x2="1004.8" y2="395.4" stroke="#e53935" stroke-width="1"/>
+<rect x="1003.6" y="367.7" width="2.6" height="6.4" fill="#e53935"><title>2026-07-22 O=1300.00 H=1308.00 L=1283.24 C=1305.00</title></rect>
+<line x1="1008.8" y1="370.2" x2="1008.8" y2="392.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1007.5" y="374.3" width="2.6" height="9.9" fill="#1e88e5"><title>2026-07-23 O=1299.80 H=1303.00 L=1285.43 C=1292.01</title></rect>
+<line x1="1012.8" y1="362.3" x2="1012.8" y2="391.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1011.5" y="367.7" width="2.6" height="9.7" fill="#1e88e5"><title>2026-07-24 O=1305.00 H=1309.21 L=1286.20 C=1297.41</title></rect>
+<line x1="1016.8" y1="363.8" x2="1016.8" y2="400.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1015.5" y="363.8" width="2.6" height="23.6" fill="#1e88e5"><title>2026-07-27 O=1308.00 H=1308.00 L=1279.58 C=1289.50</title></rect>
+<line x1="1020.8" y1="348.5" x2="1020.8" y2="387.4" stroke="#e53935" stroke-width="1"/>
+<rect x="1019.5" y="348.5" width="2.6" height="26.8" fill="#e53935"><title>2026-07-28 O=1299.00 H=1320.00 L=1289.52 C=1320.00</title></rect>
+<line x1="1024.8" y1="318.6" x2="1024.8" y2="358.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1023.5" y="330.9" width="2.6" height="16.4" fill="#1e88e5"><title>2026-07-29 O=1333.83 H=1343.48 L=1312.06 C=1321.00</title></rect>
+<line x1="1028.8" y1="294.9" x2="1028.8" y2="346.0" stroke="#e53935" stroke-width="1"/>
+<rect x="1027.5" y="295.2" width="2.6" height="49.5" fill="#e53935"><title>2026-07-30 O=1323.00 H=1362.00 L=1322.00 C=1361.76</title></rect>
+<line x1="1032.7" y1="303.0" x2="1032.7" y2="341.2" stroke="#e53935" stroke-width="1"/>
+<rect x="1031.5" y="309.5" width="2.6" height="26.2" fill="#e53935"><title>2026-07-31 O=1330.03 H=1355.72 L=1325.77 C=1350.60</title></rect>
+<line x1="1036.7" y1="293.2" x2="1036.7" y2="315.4" stroke="#e53935" stroke-width="1"/>
+<rect x="1035.4" y="298.8" width="2.6" height="10.7" fill="#e53935"><title>2026-08-03 O=1350.60 H=1363.35 L=1346.00 C=1358.98</title></rect>
+<line x1="1040.7" y1="309.1" x2="1040.7" y2="337.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1039.4" y="310.2" width="2.6" height="27.7" fill="#1e88e5"><title>2026-08-04 O=1350.06 H=1350.94 L=1328.36 C=1328.36</title></rect>
+<line x1="1044.7" y1="330.9" x2="1044.7" y2="369.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1043.4" y="337.9" width="2.6" height="28.0" fill="#1e88e5"><title>2026-08-05 O=1328.36 H=1333.80 L=1303.50 C=1306.45</title></rect>
+<line x1="1048.7" y1="355.7" x2="1048.7" y2="374.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1047.4" y="361.3" width="2.6" height="1.9" fill="#1e88e5"><title>2026-08-06 O=1310.00 H=1314.40 L=1300.01 C=1308.55</title></rect>
+<line x1="1052.7" y1="354.6" x2="1052.7" y2="372.8" stroke="#e53935" stroke-width="1"/>
+<rect x="1051.4" y="362.3" width="2.6" height="1.0" fill="#e53935"><title>2026-08-07 O=1308.66 H=1315.28 L=1301.00 C=1309.22</title></rect>
+<line x1="1056.7" y1="297.5" x2="1056.7" y2="351.0" stroke="#e53935" stroke-width="1"/>
+<rect x="1055.4" y="311.7" width="2.6" height="30.4" fill="#e53935"><title>2026-08-10 O=1325.00 H=1359.97 L=1318.08 C=1348.86</title></rect>
+<line x1="1060.7" y1="306.9" x2="1060.7" y2="325.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1059.4" y="312.8" width="2.6" height="1.9" fill="#1e88e5"><title>2026-08-11 O=1348.00 H=1352.65 L=1338.00 C=1346.50</title></rect>
+<line x1="1064.6" y1="301.5" x2="1064.6" y2="332.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1063.4" y="314.7" width="2.6" height="4.5" fill="#1e88e5"><title>2026-08-12 O=1346.50 H=1356.88 L=1332.51 C=1343.00</title></rect>
+<line x1="1068.6" y1="298.0" x2="1068.6" y2="326.8" stroke="#e53935" stroke-width="1"/>
+<rect x="1067.3" y="303.5" width="2.6" height="22.1" fill="#e53935"><title>2026-08-13 O=1338.00 H=1359.60 L=1337.00 C=1355.29</title></rect>
+<line x1="1072.6" y1="298.8" x2="1072.6" y2="325.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1071.3" y="303.9" width="2.6" height="16.6" fill="#1e88e5"><title>2026-08-14 O=1355.00 H=1359.00 L=1338.14 C=1341.99</title></rect>
+<line x1="1076.6" y1="372.8" x2="1076.6" y2="399.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1075.3" y="380.4" width="2.6" height="2.4" fill="#1e88e5"><title>2026-08-17 O=1295.00 H=1301.00 L=1280.34 C=1293.09</title></rect>
+<line x1="1080.6" y1="370.3" x2="1080.6" y2="393.0" stroke="#e53935" stroke-width="1"/>
+<rect x="1079.3" y="376.6" width="2.6" height="8.9" fill="#e53935"><title>2026-08-18 O=1291.00 H=1302.90 L=1285.17 C=1297.99</title></rect>
+<line x1="1084.6" y1="362.7" x2="1084.6" y2="386.2" stroke="#e53935" stroke-width="1"/>
+<rect x="1083.3" y="364.0" width="2.6" height="10.1" fill="#e53935"><title>2026-08-19 O=1300.00 H=1308.88 L=1290.50 C=1307.88</title></rect>
+<line x1="1088.6" y1="365.3" x2="1088.6" y2="385.5" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1087.3" y="374.3" width="2.6" height="10.6" fill="#1e88e5"><title>2026-08-20 O=1299.80 H=1306.88 L=1291.00 C=1291.50</title></rect>
+<line x1="1092.5" y1="384.9" x2="1092.5" y2="409.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1091.3" y="384.9" width="2.6" height="23.8" fill="#1e88e5"><title>2026-08-21 O=1291.50 H=1291.50 L=1272.01 C=1272.83</title></rect>
+<line x1="1096.5" y1="356.4" x2="1096.5" y2="411.9" stroke="#e53935" stroke-width="1"/>
+<rect x="1095.2" y="368.1" width="2.6" height="42.9" fill="#e53935"><title>2026-08-24 O=1271.01 H=1313.80 L=1270.33 C=1304.66</title></rect>
+<line x1="1100.5" y1="352.4" x2="1100.5" y2="372.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1099.2" y="358.9" width="2.6" height="10.1" fill="#1e88e5"><title>2026-08-25 O=1311.89 H=1317.00 L=1301.11 C=1304.00</title></rect>
+<line x1="1104.5" y1="355.6" x2="1104.5" y2="380.4" stroke="#e53935" stroke-width="1"/>
+<rect x="1103.2" y="370.5" width="2.6" height="3.6" fill="#e53935"><title>2026-08-26 O=1300.00 H=1314.45 L=1295.00 C=1302.80</title></rect>
+<line x1="1108.5" y1="367.7" x2="1108.5" y2="389.4" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1107.2" y="368.9" width="2.6" height="14.9" fill="#1e88e5"><title>2026-08-27 O=1304.00 H=1305.00 L=1288.00 C=1292.30</title></rect>
+<line x1="1112.5" y1="376.7" x2="1112.5" y2="389.4" stroke="#e53935" stroke-width="1"/>
+<rect x="1111.2" y="377.4" width="2.6" height="10.7" fill="#e53935"><title>2026-08-28 O=1289.00 H=1297.89 L=1288.00 C=1297.40</title></rect>
+<line x1="1116.5" y1="367.7" x2="1116.5" y2="391.9" stroke="#e53935" stroke-width="1"/>
+<rect x="1115.2" y="374.7" width="2.6" height="2.0" fill="#e53935"><title>2026-08-31 O=1297.99 H=1305.00 L=1286.00 C=1299.52</title></rect>
+<line x1="1120.5" y1="363.9" x2="1120.5" y2="391.8" stroke="#e53935" stroke-width="1"/>
+<rect x="1119.2" y="374.6" width="2.6" height="5.8" fill="#e53935"><title>2026-09-01 O=1295.00 H=1307.99 L=1286.10 C=1299.56</title></rect>
+<line x1="1124.4" y1="370.2" x2="1124.4" y2="385.3" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1123.2" y="370.5" width="2.6" height="6.8" fill="#1e88e5"><title>2026-09-02 O=1302.80 H=1303.00 L=1291.20 C=1297.50</title></rect>
+<line x1="1128.4" y1="367.7" x2="1128.4" y2="383.0" stroke="#e53935" stroke-width="1"/>
+<rect x="1127.1" y="375.5" width="2.6" height="1.8" fill="#e53935"><title>2026-09-03 O=1297.50 H=1305.00 L=1293.02 C=1298.88</title></rect>
+<line x1="1132.4" y1="324.5" x2="1132.4" y2="379.7" stroke="#e53935" stroke-width="1"/>
+<rect x="1131.1" y="335.8" width="2.6" height="43.5" fill="#e53935"><title>2026-09-04 O=1295.88 H=1338.86 L=1295.60 C=1330.00</title></rect>
+<line x1="1136.4" y1="331.2" x2="1136.4" y2="357.9" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1135.1" y="343.4" width="2.6" height="10.2" fill="#1e88e5"><title>2026-09-07 O=1324.00 H=1333.60 L=1312.66 C=1316.01</title></rect>
+<line x1="1140.4" y1="344.7" x2="1140.4" y2="362.5" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1139.1" y="351.1" width="2.6" height="11.1" fill="#1e88e5"><title>2026-09-08 O=1318.00 H=1323.00 L=1309.05 C=1309.30</title></rect>
+<line x1="1144.4" y1="362.2" x2="1144.4" y2="391.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1143.1" y="367.7" width="2.6" height="18.0" fill="#1e88e5"><title>2026-09-09 O=1305.01 H=1309.30 L=1286.68 C=1290.88</title></rect>
+<line x1="1148.4" y1="380.4" x2="1148.4" y2="397.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1147.1" y="385.5" width="2.6" height="7.5" fill="#1e88e5"><title>2026-09-10 O=1291.00 H=1294.99 L=1282.00 C=1285.13</title></rect>
+<line x1="1152.3" y1="391.7" x2="1152.3" y2="421.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1151.1" y="393.0" width="2.6" height="12.7" fill="#1e88e5"><title>2026-09-11 O=1285.15 H=1286.15 L=1263.01 C=1275.16</title></rect>
+<line x1="1156.3" y1="392.5" x2="1156.3" y2="411.9" stroke="#e53935" stroke-width="1"/>
+<rect x="1155.0" y="402.2" width="2.6" height="1.0" fill="#e53935"><title>2026-09-14 O=1277.27 H=1285.53 L=1270.36 C=1277.96</title></rect>
+<line x1="1160.3" y1="393.8" x2="1160.3" y2="410.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1159.0" y="398.3" width="2.6" height="10.5" fill="#1e88e5"><title>2026-09-15 O=1281.00 H=1284.50 L=1271.28 C=1272.75</title></rect>
+<line x1="1164.3" y1="406.0" x2="1164.3" y2="432.6" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1163.0" y="407.3" width="2.6" height="20.3" fill="#1e88e5"><title>2026-09-16 O=1273.93 H=1274.98 L=1254.10 C=1258.00</title></rect>
+<line x1="1168.3" y1="415.4" x2="1168.3" y2="432.7" stroke="#e53935" stroke-width="1"/>
+<rect x="1167.0" y="416.2" width="2.6" height="11.5" fill="#e53935"><title>2026-09-17 O=1257.98 H=1267.60 L=1254.00 C=1266.98</title></rect>
+<line x1="1172.3" y1="417.6" x2="1172.3" y2="430.1" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1171.0" y="421.3" width="2.6" height="7.5" fill="#1e88e5"><title>2026-09-18 O=1262.99 H=1265.88 L=1256.10 C=1257.12</title></rect>
+<line x1="1176.3" y1="425.1" x2="1176.3" y2="436.8" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1175.0" y="426.4" width="2.6" height="8.2" fill="#1e88e5"><title>2026-09-21 O=1259.00 H=1259.95 L=1250.80 C=1252.57</title></rect>
+<line x1="1180.3" y1="417.6" x2="1180.3" y2="440.3" stroke="#e53935" stroke-width="1"/>
+<rect x="1179.0" y="433.0" width="2.6" height="2.1" fill="#e53935"><title>2026-09-22 O=1252.15 H=1265.88 L=1248.10 C=1253.80</title></rect>
+<line x1="1184.2" y1="410.4" x2="1184.2" y2="436.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1182.9" y="431.4" width="2.6" height="4.8" fill="#1e88e5"><title>2026-09-23 O=1255.03 H=1271.50 L=1250.89 C=1251.24</title></rect>
+<line x1="1188.2" y1="430.0" x2="1188.2" y2="462.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1186.9" y="437.8" width="2.6" height="16.6" fill="#1e88e5"><title>2026-09-24 O=1250.01 H=1256.13 L=1231.05 C=1237.00</title></rect>
+<line x1="1192.2" y1="445.5" x2="1192.2" y2="465.8" stroke="#e53935" stroke-width="1"/>
+<rect x="1190.9" y="445.7" width="2.6" height="10.1" fill="#e53935"><title>2026-09-28 O=1236.00 H=1244.01 L=1228.10 C=1243.88</title></rect>
+<line x1="1196.2" y1="443.1" x2="1196.2" y2="462.2" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1194.9" y="444.7" width="2.6" height="11.5" fill="#1e88e5"><title>2026-09-29 O=1244.60 H=1245.87 L=1230.88 C=1235.58</title></rect>
+<line x1="1200.2" y1="414.9" x2="1200.2" y2="455.6" stroke="#e53935" stroke-width="1"/>
+<rect x="1198.9" y="426.8" width="2.6" height="24.4" fill="#e53935"><title>2026-09-30 O=1239.53 H=1268.00 L=1236.05 C=1258.62</title></rect>
+<line x1="1204.2" y1="427.6" x2="1204.2" y2="448.1" stroke="#e53935" stroke-width="1"/>
+<rect x="1202.9" y="430.5" width="2.6" height="3.7" fill="#e53935"><title>2026-10-08 O=1252.90 H=1258.00 L=1242.00 C=1255.79</title></rect>
+<line x1="1208.2" y1="397.0" x2="1208.2" y2="430.9" stroke="#e53935" stroke-width="1"/>
+<rect x="1206.9" y="421.3" width="2.6" height="9.7" fill="#e53935"><title>2026-10-09 O=1255.42 H=1282.00 L=1255.42 C=1263.00</title></rect>
+<line x1="1212.1" y1="389.4" x2="1212.1" y2="423.8" stroke="#e53935" stroke-width="1"/>
+<rect x="1210.9" y="389.4" width="2.6" height="32.0" fill="#e53935"><title>2026-10-12 O=1262.95 H=1288.00 L=1261.00 C=1288.00</title></rect>
+<line x1="1216.1" y1="388.7" x2="1216.1" y2="414.7" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1214.8" y="390.6" width="2.6" height="15.5" fill="#1e88e5"><title>2026-10-13 O=1287.00 H=1288.48 L=1268.11 C=1274.89</title></rect>
+<line x1="1220.1" y1="391.0" x2="1220.1" y2="417.4" stroke="#e53935" stroke-width="1"/>
+<rect x="1218.8" y="391.9" width="2.6" height="20.3" fill="#e53935"><title>2026-10-14 O=1270.10 H=1286.75 L=1266.00 C=1286.00</title></rect>
+<line x1="1224.1" y1="351.4" x2="1224.1" y2="397.0" stroke="#e53935" stroke-width="1"/>
+<rect x="1222.8" y="357.5" width="2.6" height="34.4" fill="#e53935"><title>2026-10-15 O=1286.00 H=1317.76 L=1282.00 C=1312.97</title></rect>
+<line x1="1228.1" y1="335.9" x2="1228.1" y2="371.9" stroke="#e53935" stroke-width="1"/>
+<rect x="1226.8" y="337.0" width="2.6" height="22.2" fill="#e53935"><title>2026-10-16 O=1311.57 H=1329.88 L=1301.68 C=1329.00</title></rect>
+<line x1="1232.1" y1="312.0" x2="1232.1" y2="347.3" stroke="#e53935" stroke-width="1"/>
+<rect x="1230.8" y="342.2" width="2.6" height="3.2" fill="#e53935"><title>2026-10-19 O=1322.50 H=1348.60 L=1321.00 C=1324.97</title></rect>
+<line x1="1236.1" y1="329.4" x2="1236.1" y2="353.5" stroke="#e53935" stroke-width="1"/>
+<rect x="1234.8" y="333.4" width="2.6" height="13.9" fill="#e53935"><title>2026-10-20 O=1321.01 H=1335.00 L=1316.14 C=1331.88</title></rect>
+<line x1="1240.1" y1="333.2" x2="1240.1" y2="371.0" stroke="#1e88e5" stroke-width="1"/>
+<rect x="1238.8" y="333.4" width="2.6" height="28.3" fill="#1e88e5"><title>2026-10-21 O=1331.88 H=1331.98 L=1302.36 C=1309.69</title></rect>
+<line x1="1244.0" y1="346.0" x2="1244.0" y2="379.2" stroke="#e53935" stroke-width="1"/>
+<rect x="1242.7" y="350.5" width="2.6" height="19.5" fill="#e53935"><title>2026-10-22 O=1303.21 H=1322.00 L=1296.00 C=1318.49</title></rect>
+<line x1="1248.0" y1="318.1" x2="1248.0" y2="361.3" stroke="#e53935" stroke-width="1"/>
+<rect x="1246.7" y="329.4" width="2.6" height="29.6" fill="#e53935"><title>2026-10-23 O=1311.84 H=1343.88 L=1310.00 C=1335.00</title></rect>
+<line x1="1252.0" y1="310.3" x2="1252.0" y2="342.4" stroke="#e53935" stroke-width="1"/>
+<rect x="1250.7" y="310.3" width="2.6" height="31.4" fill="#e53935"><title>2026-10-26 O=1325.40 H=1350.00 L=1324.79 C=1349.98</title></rect>
+<line x1="1256.0" y1="301.3" x2="1256.0" y2="325.6" stroke="#e53935" stroke-width="1"/>
+<rect x="1254.7" y="302.7" width="2.6" height="15.3" fill="#e53935"><title>2026-10-27 O=1343.88 H=1357.00 L=1338.01 C=1355.90</title></rect>
+<text x="64.0" y="604.0" font-size="10" text-anchor="start" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">2025-07-30</text>
+<line x1="64.0" y1="48" x2="64.0" y2="584" stroke="#eceff1" stroke-width="1"/>
+<text x="303.2" y="604.0" font-size="10" text-anchor="middle" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">2025-10-30</text>
+<line x1="303.2" y1="48" x2="303.2" y2="584" stroke="#eceff1" stroke-width="1"/>
+<text x="542.4" y="604.0" font-size="10" text-anchor="middle" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">2026-01-26</text>
+<line x1="542.4" y1="48" x2="542.4" y2="584" stroke="#eceff1" stroke-width="1"/>
+<text x="777.6" y="604.0" font-size="10" text-anchor="middle" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">2026-04-28</text>
+<line x1="777.6" y1="48" x2="777.6" y2="584" stroke="#eceff1" stroke-width="1"/>
+<text x="1016.8" y="604.0" font-size="10" text-anchor="middle" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">2026-07-27</text>
+<line x1="1016.8" y1="48" x2="1016.8" y2="584" stroke="#eceff1" stroke-width="1"/>
+<text x="1256.0" y="604.0" font-size="10" text-anchor="end" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">2026-10-27</text>
+<line x1="1256.0" y1="48" x2="1256.0" y2="584" stroke="#eceff1" stroke-width="1"/>
+<rect x="64" y="656" width="10" height="10" fill="#c62828"/>
+<text x="78.0" y="665.0" font-size="11" text-anchor="start" fill="#37474f" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">线段</text>
+<rect x="110" y="656" width="10" height="10" fill="#90a4ae"/>
+<text x="124.0" y="665.0" font-size="11" text-anchor="start" fill="#37474f" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">笔</text>
+<rect x="149" y="656" width="10" height="10" fill="#1e88e5"/>
+<text x="163.0" y="665.0" font-size="11" text-anchor="start" fill="#37474f" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">L1 中枢</text>
+<rect x="216" y="656" width="10" height="10" fill="#ef6c00"/>
+<text x="230.0" y="665.0" font-size="11" text-anchor="start" fill="#37474f" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">L2+ 中枢</text>
+<rect x="290" y="656" width="10" height="10" fill="#2e7d32"/>
+<text x="304.0" y="665.0" font-size="11" text-anchor="start" fill="#37474f" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">买卖点</text>
+<rect x="343" y="656" width="10" height="10" fill="#8e24aa"/>
+<text x="357.0" y="665.0" font-size="11" text-anchor="start" fill="#37474f" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">关键价位</text>
+<text x="64.0" y="634.0" font-size="11" text-anchor="start" fill="#607d8b" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif">当前定位: 下降笔候选已失效(收盘 1355.90 高于起点 1348.60), 方向待新分型确认</text>
+<g id="layer-levels">
+<line x1="64" y1="465.8" x2="1256" y2="465.8" stroke="#8e24aa" stroke-width="1" stroke-dasharray="2 4" opacity="0.7"/>
+<text x="1252.0" y="461.8" font-size="10" text-anchor="end" fill="#8e24aa" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">支撑 1228.10</text>
+<line x1="64" y1="539.6" x2="1256" y2="539.6" stroke="#8e24aa" stroke-width="1" stroke-dasharray="2 4" opacity="0.7"/>
+<text x="1252.0" y="535.6" font-size="10" text-anchor="end" fill="#8e24aa" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">支撑 1170.28</text>
+<line x1="64" y1="312.0" x2="1256" y2="312.0" stroke="#8e24aa" stroke-width="1" stroke-dasharray="2 4" opacity="0.7"/>
+<text x="1252.0" y="308.0" font-size="10" text-anchor="end" fill="#8e24aa" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">阻力 1348.60</text>
+<line x1="64" y1="157.1" x2="1256" y2="157.1" stroke="#8e24aa" stroke-width="1" stroke-dasharray="2 4" opacity="0.7"/>
+<text x="1252.0" y="153.1" font-size="10" text-anchor="end" fill="#8e24aa" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">阻力 1470.05</text>
+</g>
+<g id="layer-centers2">
+<rect x="64.0" y="239.8" width="908.9" height="47.1" fill="#ef6c00" fill-opacity="0.14" stroke="#ef6c00" stroke-width="2" stroke-dasharray="6 3" data-tip="L2 中枢 2025-07-30 ~ 2026-07-10 ZD=1368.24 ZG=1405.18 (级别升级)"><title>L2 中枢 2025-07-30 ~ 2026-07-10 ZD=1368.24 ZG=1405.18 (级别升级)</title></rect>
+<text x="68.0" y="251.8" font-size="10" text-anchor="start" fill="#ef6c00" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">L2 ZD=1368.24 ZG=1405.18 (升级)</text>
+</g>
+<g id="layer-centers1">
+<rect x="64.0" y="239.8" width="908.9" height="47.1" fill="#1e88e5" fill-opacity="0.10" stroke="#1e88e5" stroke-width="1" stroke-dasharray="3 3" data-tip="L1 中枢 2025-07-30 ~ 2026-07-10 ZD=1368.24 ZG=1405.18"><title>L1 中枢 2025-07-30 ~ 2026-07-10 ZD=1368.24 ZG=1405.18</title></rect>
+<text x="68.0" y="251.8" font-size="10" text-anchor="start" fill="#1e88e5" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">L1 ZD=1368.24 ZG=1405.18</text>
+<rect x="972.9" y="312.0" width="259.1" height="153.7" fill="#1e88e5" fill-opacity="0.10" stroke="#1e88e5" stroke-width="1" stroke-dasharray="3 3" data-tip="L1 中枢 2026-07-10 ~ 2026-10-19 ZD=1228.10 ZG=1348.60"><title>L1 中枢 2026-07-10 ~ 2026-10-19 ZD=1228.10 ZG=1348.60</title></rect>
+<text x="976.9" y="324.0" font-size="10" text-anchor="start" fill="#1e88e5" font-weight="bold" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">L1 ZD=1228.10 ZG=1348.60</text>
+</g>
+<g id="layer-segments">
+<line x1="64.0" y1="136.7" x2="418.8" y2="334.2" stroke="#1565c0" stroke-width="2.5" ><title>线段 下跌 2025-07-30(1486.04) → 2025-12-10(1331.20) [1331.20, 1486.04]</title></line>
+<line x1="418.8" y1="381.7" x2="662.0" y2="67.9" stroke="#c62828" stroke-width="2.5" ><title>线段 上涨 2025-12-10(1293.99) → 2026-03-17(1539.98) [1293.99, 1539.98]</title></line>
+<line x1="662.0" y1="157.1" x2="1232.1" y2="539.6" stroke="#1565c0" stroke-width="1.5" stroke-dasharray="5 4"><title>线段 下跌 2026-03-17(1470.05) → 2026-10-19(1170.28) [1170.28, 1470.05] 未确认</title></line>
+</g>
+<g id="layer-strokes">
+<line x1="64.0" y1="239.8" x2="111.8" y2="287.0" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2025-07-30 1405.18 → 2025-08-15 1368.24</title></line>
+<line x1="111.8" y1="287.0" x2="191.6" y2="136.7" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2025-08-15 1368.24 → 2025-09-12 1486.04</title></line>
+<line x1="191.6" y1="136.7" x2="319.1" y2="287.2" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2025-09-12 1486.04 → 2025-11-05 1368.03</title></line>
+<line x1="319.1" y1="287.2" x2="355.0" y2="203.0" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2025-11-05 1368.03 → 2025-11-18 1434.09</title></line>
+<line x1="355.0" y1="203.0" x2="418.8" y2="334.2" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2025-11-18 1434.09 → 2025-12-10 1331.20</title></line>
+<line x1="418.8" y1="334.2" x2="462.7" y2="257.4" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2025-12-10 1331.20 → 2025-12-25 1391.46</title></line>
+<line x1="462.7" y1="257.4" x2="478.6" y2="311.3" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2025-12-25 1391.46 → 2025-12-31 1349.15</title></line>
+<line x1="478.6" y1="311.3" x2="502.5" y2="242.7" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2025-12-31 1349.15 → 2026-01-12 1402.98</title></line>
+<line x1="502.5" y1="242.7" x2="550.4" y2="381.7" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2026-01-12 1402.98 → 2026-01-28 1293.99</title></line>
+<line x1="550.4" y1="381.7" x2="578.3" y2="67.9" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2026-01-28 1293.99 → 2026-02-06 1539.98</title></line>
+<line x1="578.3" y1="67.9" x2="650.0" y2="293.7" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2026-02-06 1539.98 → 2026-03-12 1362.99</title></line>
+<line x1="650.0" y1="293.7" x2="662.0" y2="157.1" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2026-03-12 1362.99 → 2026-03-17 1470.05</title></line>
+<line x1="662.0" y1="157.1" x2="733.8" y2="240.1" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2026-03-17 1470.05 → 2026-04-13 1404.98</title></line>
+<line x1="733.8" y1="240.1" x2="745.7" y2="183.4" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2026-04-13 1404.98 → 2026-04-16 1449.39</title></line>
+<line x1="745.7" y1="183.4" x2="972.9" y2="539.6" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2026-04-16 1449.39 → 2026-07-10 1170.28</title></line>
+<line x1="972.9" y1="539.6" x2="1036.7" y2="293.2" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2026-07-10 1170.28 → 2026-08-03 1363.35</title></line>
+<line x1="1036.7" y1="293.2" x2="1192.2" y2="465.8" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2026-08-03 1363.35 → 2026-09-28 1228.10</title></line>
+<line x1="1192.2" y1="465.8" x2="1232.1" y2="312.0" stroke="#90a4ae" stroke-width="1" opacity="0.55"><title>笔 2026-09-28 1228.10 → 2026-10-19 1348.60</title></line>
+</g>
+<g id="layer-signals">
+<polygon points="418.8,346.2 412.8,336.2 424.8,336.2" fill="#2e7d32" opacity="0.85" data-tip="buy_short(candidate) 2025-12-10 价格=1331.2 触发=None 失效=1331.2 盘整背驰: 只保证回抽中枢; 跌破该段低点即失效"><title>buy_short(candidate) 2025-12-10 价格=1331.2 触发=None 失效=1331.2 盘整背驰: 只保证回抽中枢; 跌破该段低点即失效</title></polygon>
+<text x="418.8" y="356.2" font-size="10" text-anchor="middle" fill="#2e7d32" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">buy_short(candidate)</text>
+<polygon points="462.7,245.4 456.7,255.4 468.7,255.4" fill="#e53935" opacity="0.85" data-tip="sell_short(candidate) 2025-12-25 价格=1391.46 触发=None 失效=1391.46 盘整背驰: 只保证回抽中枢; 升破该段高点即失效"><title>sell_short(candidate) 2025-12-25 价格=1391.46 触发=None 失效=1391.46 盘整背驰: 只保证回抽中枢; 升破该段高点即失效</title></polygon>
+<text x="462.7" y="239.4" font-size="10" text-anchor="middle" fill="#2e7d32" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">sell_short(candidate)</text>
+<polygon points="478.6,323.3 472.6,313.3 484.6,313.3" fill="#2e7d32" opacity="0.85" data-tip="buy_short(candidate) 2025-12-31 价格=1349.15 触发=None 失效=1349.15 盘整背驰: 只保证回抽中枢; 跌破该段低点即失效"><title>buy_short(candidate) 2025-12-31 价格=1349.15 触发=None 失效=1349.15 盘整背驰: 只保证回抽中枢; 跌破该段低点即失效</title></polygon>
+<text x="478.6" y="333.3" font-size="10" text-anchor="middle" fill="#2e7d32" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">buy_short(candidate)</text>
+<polygon points="502.5,230.7 496.5,240.7 508.5,240.7" fill="#e53935" opacity="0.85" data-tip="sell_short(candidate) 2026-01-12 价格=1402.98 触发=None 失效=1402.98 盘整背驰: 只保证回抽中枢; 升破该段高点即失效"><title>sell_short(candidate) 2026-01-12 价格=1402.98 触发=None 失效=1402.98 盘整背驰: 只保证回抽中枢; 升破该段高点即失效</title></polygon>
+<text x="502.5" y="224.7" font-size="10" text-anchor="middle" fill="#2e7d32" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">sell_short(candidate)</text>
+<polygon points="662.0,145.1 656.0,155.1 668.0,155.1" fill="#e53935" opacity="0.85" data-tip="sell_short(candidate) 2026-03-17 价格=1470.05 触发=None 失效=1470.05 盘整背驰: 只保证回抽中枢; 升破该段高点即失效"><title>sell_short(candidate) 2026-03-17 价格=1470.05 触发=None 失效=1470.05 盘整背驰: 只保证回抽中枢; 升破该段高点即失效</title></polygon>
+<text x="662.0" y="139.1" font-size="10" text-anchor="middle" fill="#2e7d32" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">sell_short(candidate)</text>
+<polygon points="733.8,252.1 727.8,242.1 739.8,242.1" fill="#2e7d32" opacity="0.85" data-tip="buy_short(candidate) 2026-04-13 价格=1404.98 触发=None 失效=1404.98 盘整背驰: 只保证回抽中枢; 跌破该段低点即失效"><title>buy_short(candidate) 2026-04-13 价格=1404.98 触发=None 失效=1404.98 盘整背驰: 只保证回抽中枢; 跌破该段低点即失效</title></polygon>
+<text x="733.8" y="262.1" font-size="10" text-anchor="middle" fill="#2e7d32" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">buy_short(candidate)</text>
+<polygon points="745.7,171.4 739.7,181.4 751.7,181.4" fill="#e53935" opacity="0.85" data-tip="sell_short(candidate) 2026-04-16 价格=1449.39 触发=None 失效=1449.39 盘整背驰: 只保证回抽中枢; 升破该段高点即失效"><title>sell_short(candidate) 2026-04-16 价格=1449.39 触发=None 失效=1449.39 盘整背驰: 只保证回抽中枢; 升破该段高点即失效</title></polygon>
+<text x="745.7" y="165.4" font-size="10" text-anchor="middle" fill="#2e7d32" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">sell_short(candidate)</text>
+<polygon points="1232.1,300.0 1226.1,310.0 1238.1,310.0" fill="#e53935" opacity="0.85" data-tip="sell_short(candidate) 2026-10-19 价格=1348.6 触发=None 失效=1348.6 盘整背驰: 只保证回抽中枢; 升破该段高点即失效"><title>sell_short(candidate) 2026-10-19 价格=1348.6 触发=None 失效=1348.6 盘整背驰: 只保证回抽中枢; 升破该段高点即失效</title></polygon>
+<text x="1232.1" y="294.0" font-size="10" text-anchor="end" fill="#2e7d32" font-weight="normal" font-family="-apple-system, PingFang SC, sans-serif" stroke="#ffffff" stroke-width="3" stroke-opacity="0.9" paint-order="stroke">sell_short(candidate)</text>
+</g>
+</svg>
